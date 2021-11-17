@@ -1,51 +1,1010 @@
 ,CCA,year,keep_row
-0,ANDERSONVILLE,2018.0,1
-1,BACK OF THE YARDS,2021.0,1
-2,"BELMONT CRAGIN,HERMOSA",2019.0,1
-3,"BELMONT CRAGIN,HERMOSA",2020.0,1
-4,BEVERLY,2019.0,1
-5,DUNNING,2019.0,2
-6,DUNNING,2020.0,1
-7,DUNNING,2021.0,2
-8,EDGEWATER,2021.0,2
-9,HYDE PARK,2020.0,1
-10,"IRVING PARK,AVONDALE",2019.0,1
-11,"IRVING PARK,AVONDALE",2021.0,1
-12,JEFFERSON PARK,2019.0,1
-13,"KENWOOD,OAKLAND",2004.0,1
-14,LAKE VIEW,2019.0,4
-15,LAKE VIEW,2021.0,2
-16,LINCOLN PARK,2021.0,2
-17,LINCOLN SQUARE,2019.0,1
-18,LINCOLN SQUARE,2020.0,1
-19,"LITTLE ITALY, UIC",2019.0,1
-20,LOOP,2019.0,8
-21,LOOP,2020.0,2
-22,LOOP,2021.0,1
-23,MIDWAY AIRPORT,2005.0,1
-24,MIDWAY AIRPORT,2019.0,1
-25,NEAR SOUTH SIDE,2019.0,1
-26,NORTH CENTER,2018.0,1
-27,NORTH CENTER,2020.0,1
-28,NORTH LAWNDALE,2020.0,1
-29,"NORTH PARK,ALBANY PARK",2018.0,1
-30,"NORTH PARK,ALBANY PARK",2019.0,1
-31,"NORTH PARK,ALBANY PARK",2020.0,2
-32,"NORTH PARK,ALBANY PARK",2021.0,1
-33,NORWOOD PARK,2003.0,1
-34,NORWOOD PARK,2019.0,1
-35,RIVER NORTH,2019.0,1
-36,ROGERS PARK,2021.0,3
-37,RUSH & DIVISION,2019.0,1
-38,SHEFFIELD & DEPAUL,2019.0,1
-39,SOUTH CHICAGO,2017.0,1
-40,UKRAINIAN VILLAGE AND EAST VILLAGE,2007.0,1
-41,WEST LAWN,2020.0,1
-42,WEST LOOP,2019.0,3
-43,WEST LOOP,2020.0,1
-44,WEST LOOP,2021.0,1
-45,"WICKER PARK,WEST TOWN",2011.0,1
-46,"WICKER PARK,WEST TOWN",2019.0,2
-47,"WICKER PARK,WEST TOWN",2020.0,1
-48,"WICKER PARK,WEST TOWN",2021.0,1
-49,WRIGLEYVILLE,2019.0,1
+0,Albany Park,2001.0,2
+1,Albany Park,2002.0,22
+2,Albany Park,2003.0,28
+3,Albany Park,2004.0,32
+4,Albany Park,2005.0,34
+5,Albany Park,2006.0,39
+6,Albany Park,2007.0,38
+7,Albany Park,2008.0,11
+8,Albany Park,2009.0,35
+9,Albany Park,2010.0,13
+10,Albany Park,2011.0,35
+11,Albany Park,2012.0,10
+12,Albany Park,2013.0,24
+13,Albany Park,2014.0,9
+14,Albany Park,2015.0,31
+15,Albany Park,2016.0,11
+16,Albany Park,2017.0,22
+17,Albany Park,2018.0,10
+18,Albany Park,2019.0,30
+19,Albany Park,2020.0,9
+20,Albany Park,2021.0,22
+21,Archer Heights,2002.0,1
+22,Archer Heights,2003.0,3
+23,Archer Heights,2004.0,3
+24,Archer Heights,2005.0,2
+25,Archer Heights,2006.0,3
+26,Archer Heights,2007.0,2
+27,Archer Heights,2009.0,2
+28,Archer Heights,2011.0,2
+29,Archer Heights,2012.0,4
+30,Archer Heights,2013.0,1
+31,Archer Heights,2014.0,3
+32,Archer Heights,2016.0,3
+33,Archer Heights,2018.0,2
+34,Archer Heights,2019.0,2
+35,Archer Heights,2020.0,3
+36,Archer Heights,2021.0,5
+37,Armour Square,2001.0,2
+38,Armour Square,2002.0,9
+39,Armour Square,2003.0,7
+40,Armour Square,2004.0,8
+41,Armour Square,2005.0,13
+42,Armour Square,2006.0,8
+43,Armour Square,2007.0,12
+44,Armour Square,2008.0,13
+45,Armour Square,2009.0,2
+46,Armour Square,2010.0,13
+47,Armour Square,2011.0,1
+48,Armour Square,2012.0,10
+49,Armour Square,2013.0,1
+50,Armour Square,2014.0,11
+51,Armour Square,2015.0,3
+52,Armour Square,2016.0,6
+53,Armour Square,2017.0,5
+54,Armour Square,2018.0,8
+55,Armour Square,2019.0,6
+56,Armour Square,2020.0,6
+57,Armour Square,2021.0,5
+58,Ashburn,2003.0,1
+59,Ashburn,2008.0,1
+60,Ashburn,2013.0,1
+61,Ashburn,2020.0,1
+62,Ashburn,2021.0,1
+63,Auburn Gresham,2002.0,1
+64,Auburn Gresham,2003.0,1
+65,Auburn Gresham,2007.0,2
+66,Auburn Gresham,2008.0,2
+67,Auburn Gresham,2009.0,2
+68,Auburn Gresham,2010.0,1
+69,Auburn Gresham,2012.0,2
+70,Auburn Gresham,2015.0,2
+71,Auburn Gresham,2016.0,1
+72,Auburn Gresham,2017.0,2
+73,Auburn Gresham,2018.0,3
+74,Auburn Gresham,2019.0,5
+75,Auburn Gresham,2020.0,5
+76,Auburn Gresham,2021.0,3
+77,Austin,2002.0,2
+78,Austin,2003.0,2
+79,Austin,2004.0,4
+80,Austin,2005.0,2
+81,Austin,2006.0,4
+82,Austin,2007.0,1
+83,Austin,2008.0,2
+84,Austin,2009.0,2
+85,Austin,2010.0,2
+86,Austin,2011.0,1
+87,Austin,2012.0,2
+88,Austin,2013.0,1
+89,Austin,2014.0,1
+90,Austin,2015.0,6
+91,Austin,2016.0,3
+92,Austin,2017.0,9
+93,Austin,2018.0,7
+94,Austin,2019.0,15
+95,Austin,2020.0,8
+96,Austin,2021.0,15
+97,Avalon Park,2001.0,1
+98,Avalon Park,2002.0,2
+99,Avalon Park,2003.0,2
+100,Avalon Park,2004.0,2
+101,Avalon Park,2005.0,1
+102,Avalon Park,2006.0,1
+103,Avalon Park,2007.0,1
+104,Avalon Park,2008.0,1
+105,Avalon Park,2010.0,2
+106,Avalon Park,2012.0,2
+107,Avalon Park,2014.0,3
+108,Avalon Park,2015.0,1
+109,Avalon Park,2016.0,3
+110,Avalon Park,2018.0,2
+111,Avalon Park,2019.0,1
+112,Avalon Park,2020.0,3
+113,Avalon Park,2021.0,2
+114,Avondale,2001.0,1
+115,Avondale,2002.0,21
+116,Avondale,2003.0,22
+117,Avondale,2004.0,26
+118,Avondale,2005.0,22
+119,Avondale,2006.0,25
+120,Avondale,2007.0,28
+121,Avondale,2008.0,17
+122,Avondale,2009.0,19
+123,Avondale,2010.0,17
+124,Avondale,2011.0,9
+125,Avondale,2012.0,8
+126,Avondale,2013.0,10
+127,Avondale,2014.0,11
+128,Avondale,2015.0,17
+129,Avondale,2016.0,11
+130,Avondale,2017.0,16
+131,Avondale,2018.0,16
+132,Avondale,2019.0,16
+133,Avondale,2020.0,17
+134,Avondale,2021.0,19
+135,Belmont Cragin,2001.0,1
+136,Belmont Cragin,2002.0,11
+137,Belmont Cragin,2003.0,15
+138,Belmont Cragin,2004.0,15
+139,Belmont Cragin,2005.0,15
+140,Belmont Cragin,2006.0,16
+141,Belmont Cragin,2007.0,23
+142,Belmont Cragin,2008.0,8
+143,Belmont Cragin,2009.0,20
+144,Belmont Cragin,2010.0,3
+145,Belmont Cragin,2011.0,22
+146,Belmont Cragin,2012.0,3
+147,Belmont Cragin,2013.0,14
+148,Belmont Cragin,2014.0,5
+149,Belmont Cragin,2015.0,17
+150,Belmont Cragin,2016.0,4
+151,Belmont Cragin,2017.0,14
+152,Belmont Cragin,2018.0,8
+153,Belmont Cragin,2019.0,21
+154,Belmont Cragin,2020.0,9
+155,Belmont Cragin,2021.0,25
+156,Beverly,2001.0,1
+157,Beverly,2002.0,1
+158,Beverly,2003.0,1
+159,Beverly,2004.0,2
+160,Beverly,2005.0,1
+161,Beverly,2006.0,3
+162,Beverly,2007.0,4
+163,Beverly,2008.0,3
+164,Beverly,2009.0,5
+165,Beverly,2010.0,2
+166,Beverly,2011.0,6
+167,Beverly,2012.0,1
+168,Beverly,2013.0,6
+169,Beverly,2014.0,3
+170,Beverly,2015.0,5
+171,Beverly,2017.0,6
+172,Beverly,2018.0,1
+173,Beverly,2019.0,5
+174,Beverly,2020.0,3
+175,Beverly,2021.0,7
+176,Bridgeport,2002.0,6
+177,Bridgeport,2003.0,9
+178,Bridgeport,2004.0,8
+179,Bridgeport,2005.0,8
+180,Bridgeport,2006.0,7
+181,Bridgeport,2007.0,12
+182,Bridgeport,2008.0,2
+183,Bridgeport,2009.0,7
+184,Bridgeport,2010.0,1
+185,Bridgeport,2011.0,9
+186,Bridgeport,2012.0,3
+187,Bridgeport,2013.0,9
+188,Bridgeport,2014.0,4
+189,Bridgeport,2015.0,8
+190,Bridgeport,2016.0,5
+191,Bridgeport,2017.0,6
+192,Bridgeport,2018.0,5
+193,Bridgeport,2019.0,6
+194,Bridgeport,2020.0,5
+195,Bridgeport,2021.0,5
+196,Brighton Park,2001.0,1
+197,Brighton Park,2002.0,6
+198,Brighton Park,2003.0,5
+199,Brighton Park,2004.0,4
+200,Brighton Park,2005.0,4
+201,Brighton Park,2006.0,5
+202,Brighton Park,2007.0,7
+203,Brighton Park,2008.0,2
+204,Brighton Park,2009.0,1
+205,Brighton Park,2010.0,3
+206,Brighton Park,2011.0,3
+207,Brighton Park,2012.0,3
+208,Brighton Park,2013.0,3
+209,Brighton Park,2014.0,3
+210,Brighton Park,2015.0,5
+211,Brighton Park,2016.0,3
+212,Brighton Park,2017.0,8
+213,Brighton Park,2018.0,4
+214,Brighton Park,2019.0,6
+215,Brighton Park,2020.0,4
+216,Brighton Park,2021.0,6
+217,Burnside,2002.0,2
+218,Burnside,2003.0,2
+219,Burnside,2004.0,8
+220,Burnside,2005.0,8
+221,Burnside,2006.0,9
+222,Burnside,2007.0,8
+223,Burnside,2008.0,3
+224,Burnside,2009.0,5
+225,Burnside,2010.0,2
+226,Burnside,2011.0,6
+227,Burnside,2012.0,2
+228,Burnside,2013.0,5
+229,Burnside,2014.0,2
+230,Burnside,2015.0,4
+231,Burnside,2016.0,2
+232,Burnside,2017.0,5
+233,Burnside,2018.0,3
+234,Burnside,2019.0,6
+235,Burnside,2020.0,5
+236,Burnside,2021.0,6
+237,Douglas,2002.0,2
+238,Douglas,2003.0,4
+239,Douglas,2004.0,7
+240,Douglas,2005.0,11
+241,Douglas,2006.0,13
+242,Douglas,2007.0,13
+243,Douglas,2008.0,3
+244,Douglas,2009.0,11
+245,Douglas,2010.0,5
+246,Douglas,2011.0,4
+247,Douglas,2012.0,3
+248,Douglas,2013.0,3
+249,Douglas,2014.0,4
+250,Douglas,2015.0,1
+251,Douglas,2016.0,3
+252,Douglas,2017.0,3
+253,Douglas,2018.0,2
+254,Douglas,2019.0,6
+255,Douglas,2020.0,6
+256,Douglas,2021.0,7
+257,Dunning,2002.0,20
+258,Dunning,2003.0,18
+259,Dunning,2004.0,26
+260,Dunning,2005.0,23
+261,Dunning,2006.0,18
+262,Dunning,2007.0,21
+263,Dunning,2009.0,19
+264,Dunning,2010.0,1
+265,Dunning,2011.0,19
+266,Dunning,2012.0,4
+267,Dunning,2013.0,13
+268,Dunning,2014.0,4
+269,Dunning,2015.0,11
+270,Dunning,2016.0,2
+271,Dunning,2017.0,13
+272,Dunning,2018.0,2
+273,Dunning,2019.0,13
+274,Dunning,2020.0,4
+275,Dunning,2021.0,6
+276,East Garfield Park,2001.0,1
+277,East Garfield Park,2002.0,1
+278,East Garfield Park,2003.0,1
+279,East Garfield Park,2005.0,1
+280,East Garfield Park,2006.0,2
+281,East Garfield Park,2007.0,2
+282,East Garfield Park,2008.0,2
+283,East Garfield Park,2010.0,1
+284,East Garfield Park,2011.0,1
+285,East Garfield Park,2013.0,1
+286,East Garfield Park,2014.0,1
+287,East Garfield Park,2015.0,5
+288,East Garfield Park,2016.0,7
+289,East Garfield Park,2017.0,4
+290,East Garfield Park,2018.0,9
+291,East Garfield Park,2019.0,8
+292,East Garfield Park,2020.0,13
+293,East Garfield Park,2021.0,7
+294,Edgewater,2002.0,31
+295,Edgewater,2003.0,34
+296,Edgewater,2004.0,31
+297,Edgewater,2005.0,21
+298,Edgewater,2006.0,33
+299,Edgewater,2007.0,24
+300,Edgewater,2008.0,4
+301,Edgewater,2009.0,37
+302,Edgewater,2010.0,2
+303,Edgewater,2011.0,22
+304,Edgewater,2012.0,8
+305,Edgewater,2013.0,23
+306,Edgewater,2014.0,9
+307,Edgewater,2015.0,27
+308,Edgewater,2016.0,9
+309,Edgewater,2017.0,28
+310,Edgewater,2018.0,9
+311,Edgewater,2019.0,36
+312,Edgewater,2020.0,13
+313,Edgewater,2021.0,31
+314,Edison Park,2002.0,1
+315,Edison Park,2003.0,3
+316,Edison Park,2004.0,1
+317,Edison Park,2008.0,1
+318,Edison Park,2009.0,3
+319,Edison Park,2010.0,3
+320,Edison Park,2011.0,1
+321,Edison Park,2012.0,4
+322,Edison Park,2013.0,1
+323,Edison Park,2014.0,3
+324,Edison Park,2015.0,1
+325,Edison Park,2016.0,3
+326,Edison Park,2017.0,2
+327,Edison Park,2018.0,4
+328,Edison Park,2019.0,2
+329,Edison Park,2020.0,2
+330,Edison Park,2021.0,1
+331,Englewood,2007.0,1
+332,Englewood,2008.0,5
+333,Englewood,2009.0,1
+334,Englewood,2010.0,4
+335,Englewood,2012.0,3
+336,Englewood,2013.0,4
+337,Englewood,2014.0,3
+338,Englewood,2015.0,6
+339,Englewood,2016.0,3
+340,Englewood,2017.0,4
+341,Englewood,2018.0,7
+342,Englewood,2019.0,7
+343,Englewood,2020.0,5
+344,Englewood,2021.0,11
+345,Forest Glen,2002.0,6
+346,Forest Glen,2003.0,6
+347,Forest Glen,2004.0,6
+348,Forest Glen,2005.0,5
+349,Forest Glen,2006.0,5
+350,Forest Glen,2007.0,5
+351,Forest Glen,2008.0,5
+352,Forest Glen,2009.0,5
+353,Forest Glen,2010.0,2
+354,Forest Glen,2011.0,4
+355,Forest Glen,2013.0,3
+356,Forest Glen,2015.0,3
+357,Forest Glen,2017.0,4
+358,Forest Glen,2019.0,3
+359,Forest Glen,2021.0,3
+360,Gage Park,2002.0,3
+361,Gage Park,2004.0,2
+362,Gage Park,2008.0,1
+363,Gage Park,2011.0,1
+364,Gage Park,2013.0,4
+365,Gage Park,2015.0,1
+366,Gage Park,2016.0,1
+367,Gage Park,2017.0,2
+368,Gage Park,2018.0,2
+369,Gage Park,2019.0,8
+370,Gage Park,2020.0,3
+371,Gage Park,2021.0,10
+372,Garfield Ridge,2001.0,2
+373,Garfield Ridge,2002.0,17
+374,Garfield Ridge,2003.0,18
+375,Garfield Ridge,2004.0,18
+376,Garfield Ridge,2005.0,17
+377,Garfield Ridge,2006.0,17
+378,Garfield Ridge,2007.0,17
+379,Garfield Ridge,2008.0,15
+380,Garfield Ridge,2009.0,6
+381,Garfield Ridge,2010.0,15
+382,Garfield Ridge,2011.0,3
+383,Garfield Ridge,2012.0,14
+384,Garfield Ridge,2013.0,1
+385,Garfield Ridge,2014.0,13
+386,Garfield Ridge,2015.0,4
+387,Garfield Ridge,2016.0,13
+388,Garfield Ridge,2017.0,10
+389,Garfield Ridge,2018.0,6
+390,Garfield Ridge,2019.0,13
+391,Garfield Ridge,2020.0,5
+392,Garfield Ridge,2021.0,18
+393,Humboldt Park,2002.0,10
+394,Humboldt Park,2003.0,4
+395,Humboldt Park,2004.0,6
+396,Humboldt Park,2005.0,5
+397,Humboldt Park,2006.0,4
+398,Humboldt Park,2007.0,5
+399,Humboldt Park,2008.0,3
+400,Humboldt Park,2009.0,4
+401,Humboldt Park,2010.0,4
+402,Humboldt Park,2011.0,3
+403,Humboldt Park,2012.0,7
+404,Humboldt Park,2013.0,7
+405,Humboldt Park,2014.0,1
+406,Humboldt Park,2015.0,5
+407,Humboldt Park,2016.0,6
+408,Humboldt Park,2017.0,7
+409,Humboldt Park,2018.0,11
+410,Humboldt Park,2019.0,10
+411,Humboldt Park,2020.0,16
+412,Humboldt Park,2021.0,11
+413,Hyde Park,2002.0,20
+414,Hyde Park,2003.0,24
+415,Hyde Park,2004.0,22
+416,Hyde Park,2005.0,23
+417,Hyde Park,2006.0,23
+418,Hyde Park,2007.0,25
+419,Hyde Park,2008.0,3
+420,Hyde Park,2009.0,26
+421,Hyde Park,2010.0,6
+422,Hyde Park,2011.0,29
+423,Hyde Park,2012.0,1
+424,Hyde Park,2013.0,20
+425,Hyde Park,2014.0,3
+426,Hyde Park,2015.0,23
+427,Hyde Park,2016.0,11
+428,Hyde Park,2017.0,18
+429,Hyde Park,2018.0,13
+430,Hyde Park,2019.0,22
+431,Hyde Park,2020.0,10
+432,Hyde Park,2021.0,27
+433,Jefferson Park,2002.0,2
+434,Jefferson Park,2003.0,2
+435,Jefferson Park,2004.0,2
+436,Jefferson Park,2005.0,2
+437,Jefferson Park,2006.0,4
+438,Jefferson Park,2007.0,8
+439,Jefferson Park,2008.0,6
+440,Jefferson Park,2009.0,6
+441,Jefferson Park,2010.0,10
+442,Jefferson Park,2011.0,7
+443,Jefferson Park,2012.0,5
+444,Jefferson Park,2013.0,6
+445,Jefferson Park,2014.0,3
+446,Jefferson Park,2015.0,2
+447,Jefferson Park,2016.0,5
+448,Jefferson Park,2017.0,4
+449,Jefferson Park,2018.0,5
+450,Jefferson Park,2019.0,5
+451,Jefferson Park,2020.0,6
+452,Jefferson Park,2021.0,3
+453,Kenwood,2001.0,2
+454,Kenwood,2002.0,6
+455,Kenwood,2003.0,6
+456,Kenwood,2004.0,5
+457,Kenwood,2005.0,5
+458,Kenwood,2006.0,5
+459,Kenwood,2007.0,5
+460,Kenwood,2008.0,7
+461,Kenwood,2009.0,3
+462,Kenwood,2010.0,6
+463,Kenwood,2011.0,2
+464,Kenwood,2012.0,7
+465,Kenwood,2013.0,2
+466,Kenwood,2014.0,4
+467,Kenwood,2015.0,3
+468,Kenwood,2016.0,4
+469,Kenwood,2017.0,1
+470,Kenwood,2018.0,4
+471,Kenwood,2019.0,1
+472,Kenwood,2020.0,2
+473,Lake View,2001.0,2
+474,Lake View,2002.0,78
+475,Lake View,2003.0,80
+476,Lake View,2004.0,70
+477,Lake View,2005.0,70
+478,Lake View,2006.0,71
+479,Lake View,2007.0,71
+480,Lake View,2008.0,36
+481,Lake View,2009.0,52
+482,Lake View,2010.0,30
+483,Lake View,2011.0,60
+484,Lake View,2012.0,32
+485,Lake View,2013.0,37
+486,Lake View,2014.0,33
+487,Lake View,2015.0,37
+488,Lake View,2016.0,36
+489,Lake View,2017.0,45
+490,Lake View,2018.0,46
+491,Lake View,2019.0,53
+492,Lake View,2020.0,44
+493,Lake View,2021.0,46
+494,Lincoln Park,2001.0,4
+495,Lincoln Park,2002.0,86
+496,Lincoln Park,2003.0,76
+497,Lincoln Park,2004.0,71
+498,Lincoln Park,2005.0,66
+499,Lincoln Park,2006.0,61
+500,Lincoln Park,2007.0,62
+501,Lincoln Park,2008.0,8
+502,Lincoln Park,2009.0,60
+503,Lincoln Park,2010.0,12
+504,Lincoln Park,2011.0,63
+505,Lincoln Park,2012.0,19
+506,Lincoln Park,2013.0,48
+507,Lincoln Park,2014.0,13
+508,Lincoln Park,2015.0,52
+509,Lincoln Park,2016.0,16
+510,Lincoln Park,2017.0,51
+511,Lincoln Park,2018.0,10
+512,Lincoln Park,2019.0,50
+513,Lincoln Park,2020.0,21
+514,Lincoln Park,2021.0,51
+515,Lincoln Square,2001.0,7
+516,Lincoln Square,2002.0,56
+517,Lincoln Square,2003.0,67
+518,Lincoln Square,2004.0,53
+519,Lincoln Square,2005.0,48
+520,Lincoln Square,2006.0,47
+521,Lincoln Square,2007.0,45
+522,Lincoln Square,2008.0,7
+523,Lincoln Square,2009.0,42
+524,Lincoln Square,2010.0,5
+525,Lincoln Square,2011.0,40
+526,Lincoln Square,2012.0,5
+527,Lincoln Square,2013.0,35
+528,Lincoln Square,2014.0,9
+529,Lincoln Square,2015.0,32
+530,Lincoln Square,2016.0,11
+531,Lincoln Square,2017.0,31
+532,Lincoln Square,2018.0,7
+533,Lincoln Square,2019.0,29
+534,Lincoln Square,2020.0,11
+535,Lincoln Square,2021.0,24
+536,Logan Square,2001.0,2
+537,Logan Square,2002.0,32
+538,Logan Square,2003.0,27
+539,Logan Square,2004.0,37
+540,Logan Square,2005.0,24
+541,Logan Square,2006.0,22
+542,Logan Square,2007.0,28
+543,Logan Square,2008.0,7
+544,Logan Square,2009.0,30
+545,Logan Square,2010.0,10
+546,Logan Square,2011.0,24
+547,Logan Square,2012.0,12
+548,Logan Square,2013.0,22
+549,Logan Square,2014.0,15
+550,Logan Square,2015.0,24
+551,Logan Square,2016.0,22
+552,Logan Square,2017.0,26
+553,Logan Square,2018.0,27
+554,Logan Square,2019.0,28
+555,Logan Square,2020.0,36
+556,Logan Square,2021.0,26
+557,Loop,2001.0,17
+558,Loop,2002.0,130
+559,Loop,2003.0,139
+560,Loop,2004.0,140
+561,Loop,2005.0,141
+562,Loop,2006.0,162
+563,Loop,2007.0,159
+564,Loop,2008.0,96
+565,Loop,2009.0,85
+566,Loop,2010.0,99
+567,Loop,2011.0,89
+568,Loop,2012.0,93
+569,Loop,2013.0,61
+570,Loop,2014.0,95
+571,Loop,2015.0,59
+572,Loop,2016.0,89
+573,Loop,2017.0,66
+574,Loop,2018.0,91
+575,Loop,2019.0,83
+576,Loop,2020.0,73
+577,Loop,2021.0,64
+578,Lower West Side,2001.0,1
+579,Lower West Side,2002.0,8
+580,Lower West Side,2003.0,12
+581,Lower West Side,2004.0,12
+582,Lower West Side,2005.0,17
+583,Lower West Side,2006.0,17
+584,Lower West Side,2007.0,37
+585,Lower West Side,2008.0,5
+586,Lower West Side,2009.0,8
+587,Lower West Side,2010.0,6
+588,Lower West Side,2011.0,13
+589,Lower West Side,2012.0,6
+590,Lower West Side,2013.0,17
+591,Lower West Side,2014.0,8
+592,Lower West Side,2015.0,16
+593,Lower West Side,2016.0,7
+594,Lower West Side,2017.0,13
+595,Lower West Side,2018.0,15
+596,Lower West Side,2019.0,11
+597,Lower West Side,2020.0,10
+598,Lower West Side,2021.0,17
+599,Montclare,2001.0,1
+600,Montclare,2002.0,11
+601,Montclare,2003.0,13
+602,Montclare,2004.0,15
+603,Montclare,2005.0,17
+604,Montclare,2006.0,18
+605,Montclare,2007.0,18
+606,Montclare,2008.0,15
+607,Montclare,2009.0,3
+608,Montclare,2010.0,13
+609,Montclare,2011.0,2
+610,Montclare,2012.0,8
+611,Montclare,2013.0,1
+612,Montclare,2014.0,7
+613,Montclare,2015.0,1
+614,Montclare,2016.0,9
+615,Montclare,2017.0,2
+616,Montclare,2018.0,4
+617,Montclare,2019.0,2
+618,Montclare,2020.0,2
+619,Montclare,2021.0,4
+620,Morgan Park,2002.0,3
+621,Morgan Park,2003.0,3
+622,Morgan Park,2004.0,3
+623,Morgan Park,2005.0,3
+624,Morgan Park,2006.0,5
+625,Morgan Park,2007.0,4
+626,Morgan Park,2008.0,3
+627,Morgan Park,2009.0,2
+628,Morgan Park,2011.0,4
+629,Morgan Park,2012.0,5
+630,Morgan Park,2013.0,2
+631,Morgan Park,2014.0,4
+632,Morgan Park,2015.0,2
+633,Morgan Park,2016.0,3
+634,Morgan Park,2017.0,2
+635,Morgan Park,2018.0,1
+636,Morgan Park,2019.0,4
+637,Morgan Park,2020.0,4
+638,Morgan Park,2021.0,3
+639,Near North Side,2001.0,4
+640,Near North Side,2002.0,115
+641,Near North Side,2003.0,114
+642,Near North Side,2004.0,111
+643,Near North Side,2005.0,92
+644,Near North Side,2006.0,91
+645,Near North Side,2007.0,98
+646,Near North Side,2008.0,33
+647,Near North Side,2009.0,66
+648,Near North Side,2010.0,41
+649,Near North Side,2011.0,68
+650,Near North Side,2012.0,46
+651,Near North Side,2013.0,52
+652,Near North Side,2014.0,51
+653,Near North Side,2015.0,67
+654,Near North Side,2016.0,39
+655,Near North Side,2017.0,61
+656,Near North Side,2018.0,50
+657,Near North Side,2019.0,56
+658,Near North Side,2020.0,47
+659,Near North Side,2021.0,56
+660,Near South Side,2002.0,12
+661,Near South Side,2003.0,7
+662,Near South Side,2004.0,7
+663,Near South Side,2005.0,8
+664,Near South Side,2006.0,11
+665,Near South Side,2007.0,10
+666,Near South Side,2008.0,6
+667,Near South Side,2009.0,5
+668,Near South Side,2010.0,8
+669,Near South Side,2011.0,8
+670,Near South Side,2012.0,8
+671,Near South Side,2013.0,9
+672,Near South Side,2014.0,8
+673,Near South Side,2015.0,5
+674,Near South Side,2016.0,6
+675,Near South Side,2017.0,5
+676,Near South Side,2018.0,4
+677,Near South Side,2019.0,3
+678,Near South Side,2020.0,5
+679,Near South Side,2021.0,3
+680,Near West Side,2001.0,4
+681,Near West Side,2002.0,58
+682,Near West Side,2003.0,64
+683,Near West Side,2004.0,56
+684,Near West Side,2005.0,62
+685,Near West Side,2006.0,61
+686,Near West Side,2007.0,72
+687,Near West Side,2008.0,37
+688,Near West Side,2009.0,39
+689,Near West Side,2010.0,40
+690,Near West Side,2011.0,45
+691,Near West Side,2012.0,54
+692,Near West Side,2013.0,45
+693,Near West Side,2014.0,56
+694,Near West Side,2015.0,44
+695,Near West Side,2016.0,55
+696,Near West Side,2017.0,53
+697,Near West Side,2018.0,53
+698,Near West Side,2019.0,47
+699,Near West Side,2020.0,38
+700,Near West Side,2021.0,30
+701,New City,2002.0,1
+702,New City,2003.0,1
+703,New City,2005.0,2
+704,New City,2006.0,1
+705,New City,2007.0,1
+706,New City,2009.0,1
+707,New City,2011.0,1
+708,New City,2012.0,1
+709,New City,2013.0,2
+710,New City,2014.0,2
+711,New City,2015.0,2
+712,New City,2016.0,2
+713,New City,2017.0,4
+714,New City,2018.0,6
+715,New City,2019.0,5
+716,New City,2020.0,9
+717,New City,2021.0,9
+718,North Center,2001.0,1
+719,North Center,2002.0,15
+720,North Center,2003.0,20
+721,North Center,2004.0,21
+722,North Center,2005.0,18
+723,North Center,2006.0,21
+724,North Center,2007.0,20
+725,North Center,2008.0,16
+726,North Center,2009.0,14
+727,North Center,2010.0,17
+728,North Center,2011.0,10
+729,North Center,2012.0,11
+730,North Center,2013.0,10
+731,North Center,2014.0,9
+732,North Center,2015.0,14
+733,North Center,2016.0,15
+734,North Center,2017.0,14
+735,North Center,2018.0,12
+736,North Center,2019.0,18
+737,North Center,2020.0,8
+738,North Center,2021.0,9
+739,North Lawndale,2002.0,1
+740,North Lawndale,2003.0,1
+741,North Lawndale,2004.0,1
+742,North Lawndale,2005.0,1
+743,North Lawndale,2006.0,7
+744,North Lawndale,2007.0,5
+745,North Lawndale,2008.0,3
+746,North Lawndale,2010.0,7
+747,North Lawndale,2012.0,4
+748,North Lawndale,2013.0,3
+749,North Lawndale,2014.0,4
+750,North Lawndale,2015.0,2
+751,North Lawndale,2016.0,6
+752,North Lawndale,2017.0,3
+753,North Lawndale,2018.0,5
+754,North Lawndale,2019.0,8
+755,North Lawndale,2020.0,5
+756,North Lawndale,2021.0,8
+757,Norwood Park,2001.0,1
+758,Norwood Park,2002.0,6
+759,Norwood Park,2003.0,5
+760,Norwood Park,2004.0,4
+761,Norwood Park,2005.0,6
+762,Norwood Park,2006.0,7
+763,Norwood Park,2007.0,6
+764,Norwood Park,2008.0,6
+765,Norwood Park,2009.0,5
+766,Norwood Park,2010.0,3
+767,Norwood Park,2011.0,3
+768,Norwood Park,2012.0,3
+769,Norwood Park,2013.0,1
+770,Norwood Park,2015.0,1
+771,Norwood Park,2017.0,3
+772,Norwood Park,2018.0,1
+773,Norwood Park,2019.0,4
+774,Norwood Park,2020.0,1
+775,Norwood Park,2021.0,4
+776,Portage Park,2001.0,2
+777,Portage Park,2002.0,9
+778,Portage Park,2003.0,10
+779,Portage Park,2004.0,10
+780,Portage Park,2005.0,16
+781,Portage Park,2006.0,16
+782,Portage Park,2007.0,20
+783,Portage Park,2008.0,2
+784,Portage Park,2009.0,12
+785,Portage Park,2010.0,3
+786,Portage Park,2011.0,16
+787,Portage Park,2012.0,2
+788,Portage Park,2013.0,13
+789,Portage Park,2014.0,4
+790,Portage Park,2015.0,13
+791,Portage Park,2016.0,7
+792,Portage Park,2017.0,15
+793,Portage Park,2018.0,5
+794,Portage Park,2019.0,18
+795,Portage Park,2020.0,3
+796,Portage Park,2021.0,15
+797,Pullman,2015.0,1
+798,Pullman,2017.0,1
+799,Pullman,2020.0,1
+800,Rogers Park,2001.0,2
+801,Rogers Park,2002.0,14
+802,Rogers Park,2003.0,12
+803,Rogers Park,2004.0,13
+804,Rogers Park,2005.0,12
+805,Rogers Park,2006.0,18
+806,Rogers Park,2007.0,17
+807,Rogers Park,2008.0,25
+808,Rogers Park,2009.0,14
+809,Rogers Park,2010.0,20
+810,Rogers Park,2011.0,10
+811,Rogers Park,2012.0,19
+812,Rogers Park,2013.0,11
+813,Rogers Park,2014.0,10
+814,Rogers Park,2015.0,13
+815,Rogers Park,2016.0,7
+816,Rogers Park,2017.0,12
+817,Rogers Park,2018.0,10
+818,Rogers Park,2019.0,7
+819,Rogers Park,2020.0,11
+820,Rogers Park,2021.0,8
+821,South Chicago,2001.0,3
+822,South Chicago,2002.0,8
+823,South Chicago,2003.0,8
+824,South Chicago,2004.0,6
+825,South Chicago,2005.0,4
+826,South Chicago,2006.0,2
+827,South Chicago,2007.0,4
+828,South Chicago,2008.0,2
+829,South Chicago,2011.0,4
+830,South Chicago,2013.0,1
+831,South Chicago,2014.0,3
+832,South Chicago,2015.0,2
+833,South Chicago,2016.0,2
+834,South Chicago,2017.0,5
+835,South Chicago,2018.0,4
+836,South Chicago,2019.0,8
+837,South Chicago,2020.0,7
+838,South Chicago,2021.0,10
+839,South Deering,2004.0,1
+840,South Deering,2005.0,3
+841,South Deering,2006.0,3
+842,South Deering,2007.0,3
+843,South Lawndale,2001.0,1
+844,South Lawndale,2002.0,1
+845,South Lawndale,2003.0,2
+846,South Lawndale,2004.0,1
+847,South Lawndale,2005.0,3
+848,South Lawndale,2006.0,2
+849,South Lawndale,2007.0,1
+850,South Lawndale,2008.0,2
+851,South Lawndale,2009.0,1
+852,South Lawndale,2010.0,4
+853,South Lawndale,2011.0,1
+854,South Lawndale,2012.0,1
+855,South Lawndale,2013.0,1
+856,South Lawndale,2014.0,1
+857,South Lawndale,2015.0,3
+858,South Lawndale,2016.0,6
+859,South Lawndale,2017.0,4
+860,South Lawndale,2018.0,7
+861,South Lawndale,2019.0,7
+862,South Lawndale,2020.0,3
+863,South Lawndale,2021.0,8
+864,South Shore,2002.0,3
+865,South Shore,2003.0,5
+866,South Shore,2004.0,9
+867,South Shore,2005.0,6
+868,South Shore,2006.0,9
+869,South Shore,2007.0,10
+870,South Shore,2008.0,7
+871,South Shore,2009.0,4
+872,South Shore,2010.0,4
+873,South Shore,2011.0,5
+874,South Shore,2012.0,2
+875,South Shore,2013.0,5
+876,South Shore,2014.0,4
+877,South Shore,2015.0,5
+878,South Shore,2016.0,3
+879,South Shore,2017.0,6
+880,South Shore,2018.0,10
+881,South Shore,2019.0,12
+882,South Shore,2020.0,12
+883,South Shore,2021.0,14
+884,Uptown,2002.0,24
+885,Uptown,2003.0,20
+886,Uptown,2004.0,22
+887,Uptown,2005.0,19
+888,Uptown,2006.0,16
+889,Uptown,2007.0,22
+890,Uptown,2008.0,8
+891,Uptown,2009.0,22
+892,Uptown,2010.0,4
+893,Uptown,2011.0,16
+894,Uptown,2012.0,4
+895,Uptown,2013.0,13
+896,Uptown,2014.0,8
+897,Uptown,2015.0,12
+898,Uptown,2016.0,7
+899,Uptown,2017.0,17
+900,Uptown,2018.0,14
+901,Uptown,2019.0,18
+902,Uptown,2020.0,11
+903,Uptown,2021.0,15
+904,Washington Heights,2004.0,2
+905,Washington Heights,2005.0,2
+906,Washington Heights,2006.0,1
+907,Washington Heights,2014.0,1
+908,Washington Heights,2015.0,2
+909,Washington Heights,2016.0,1
+910,Washington Heights,2017.0,3
+911,Washington Heights,2018.0,5
+912,Washington Heights,2019.0,6
+913,Washington Heights,2020.0,7
+914,Washington Heights,2021.0,8
+915,Washington Park,2013.0,1
+916,Washington Park,2016.0,5
+917,Washington Park,2018.0,4
+918,Washington Park,2020.0,3
+919,West Lawn,2001.0,1
+920,West Lawn,2002.0,1
+921,West Lawn,2003.0,3
+922,West Lawn,2004.0,1
+923,West Lawn,2005.0,2
+924,West Lawn,2006.0,1
+925,West Lawn,2007.0,1
+926,West Lawn,2009.0,1
+927,West Lawn,2011.0,2
+928,West Lawn,2013.0,1
+929,West Lawn,2014.0,1
+930,West Lawn,2015.0,2
+931,West Lawn,2016.0,1
+932,West Lawn,2017.0,2
+933,West Lawn,2019.0,4
+934,West Lawn,2020.0,2
+935,West Lawn,2021.0,2
+936,West Pullman,2001.0,3
+937,West Pullman,2002.0,2
+938,West Pullman,2003.0,1
+939,West Pullman,2006.0,4
+940,West Pullman,2007.0,3
+941,West Pullman,2014.0,1
+942,West Pullman,2015.0,1
+943,West Pullman,2016.0,1
+944,West Pullman,2018.0,3
+945,West Pullman,2019.0,4
+946,West Pullman,2020.0,3
+947,West Pullman,2021.0,1
+948,West Ridge,2001.0,3
+949,West Ridge,2002.0,28
+950,West Ridge,2003.0,29
+951,West Ridge,2004.0,20
+952,West Ridge,2005.0,26
+953,West Ridge,2006.0,21
+954,West Ridge,2007.0,21
+955,West Ridge,2008.0,4
+956,West Ridge,2009.0,13
+957,West Ridge,2010.0,8
+958,West Ridge,2011.0,12
+959,West Ridge,2012.0,5
+960,West Ridge,2013.0,11
+961,West Ridge,2014.0,5
+962,West Ridge,2015.0,12
+963,West Ridge,2016.0,5
+964,West Ridge,2017.0,10
+965,West Ridge,2018.0,4
+966,West Ridge,2019.0,11
+967,West Ridge,2020.0,3
+968,West Ridge,2021.0,14
+969,West Town,2001.0,10
+970,West Town,2002.0,69
+971,West Town,2003.0,82
+972,West Town,2004.0,75
+973,West Town,2005.0,73
+974,West Town,2006.0,64
+975,West Town,2007.0,59
+976,West Town,2008.0,38
+977,West Town,2009.0,25
+978,West Town,2010.0,36
+979,West Town,2011.0,33
+980,West Town,2012.0,45
+981,West Town,2013.0,33
+982,West Town,2014.0,52
+983,West Town,2015.0,33
+984,West Town,2016.0,43
+985,West Town,2017.0,34
+986,West Town,2018.0,53
+987,West Town,2019.0,38
+988,West Town,2020.0,48
+989,West Town,2021.0,30
+990,Woodlawn,2002.0,4
+991,Woodlawn,2003.0,5
+992,Woodlawn,2004.0,7
+993,Woodlawn,2005.0,6
+994,Woodlawn,2006.0,5
+995,Woodlawn,2007.0,10
+996,Woodlawn,2008.0,2
+997,Woodlawn,2009.0,5
+998,Woodlawn,2010.0,1
+999,Woodlawn,2011.0,6
+1000,Woodlawn,2013.0,5
+1001,Woodlawn,2014.0,1
+1002,Woodlawn,2015.0,5
+1003,Woodlawn,2016.0,5
+1004,Woodlawn,2017.0,4
+1005,Woodlawn,2018.0,6
+1006,Woodlawn,2019.0,12
+1007,Woodlawn,2020.0,8
+1008,Woodlawn,2021.0,12
