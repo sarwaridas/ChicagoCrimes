@@ -1,4 +1,4 @@
-Coffee and Crimes in Chicago
+Criminals in Chicago getting Coffee
 
 ## OVERVIEW
 In this study, I aim to examine the relationship between gentrification and neighborhood crime rates in Chicago by using growth in coffee shops in a community area as a proxy for gentrification. Although policymakers associate gentrification in a city with a reduction in crime, in practice, empirical relationships between the same have produced contradictory findings. In this analysis, I first attempt to explain this variation through the neighborhood area in which gentrification has occurred. Here, I will account for sociological factors like racial composition of a community, which may be a significant predictor of crime. Secondly, my analysis will be longitudinal; this gives us insights into how crime changes over time as the number of coffee shops grows.
