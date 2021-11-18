@@ -1,9 +1,9 @@
-Coffee and Crimes in Chicago
+## Criminals in Chicago getting Coffee
 
-## OVERVIEW
+### OVERVIEW
 In this study, I aim to examine the relationship between gentrification and neighborhood crime rates in Chicago by using growth in coffee shops in a community area as a proxy for gentrification. Although policymakers associate gentrification in a city with a reduction in crime, in practice, empirical relationships between the same have produced contradictory findings. In this analysis, I first attempt to explain this variation through the neighborhood area in which gentrification has occurred. Here, I will account for sociological factors like racial composition of a community, which may be a significant predictor of crime. Secondly, my analysis will be longitudinal; this gives us insights into how crime changes over time as the number of coffee shops grows.
 
-## RESEARCH QUESTIONS
+### RESEARCH QUESTIONS
 * Are the number of coffee shops in a neighborhood a significant predictor of crime in that area?
 * How does this relationship vary across neighborhood? How does this relationship vary across time?
 * What role do other sociological factors play in this relationship: for example, are results different for White neighborhoods vs Black neighborhoods?
@@ -11,7 +11,7 @@ In this study, I aim to examine the relationship between gentrification and neig
 
 Similar research1 has studied the relationship between gentrification and neighborhood crime over a 15-year period by examining the annual increase in corporate and noncorporate coffee shops. Although the data for my research will be similar, I will be using a hierarchal model to examine variation across time, while previous research has relied on fixed effects models.
 
-## DATA
+### DATA
 
 * Response variable: _Crime_ 
 My data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. This dataset reflects reported incidents of crime that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. In defining crime, I subset for homicides and robberies.
