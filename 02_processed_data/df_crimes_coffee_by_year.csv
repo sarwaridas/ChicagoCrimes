@@ -1,0 +1,1591 @@
+,CCA_name,Year,crimes,coffeeshops
+0,Albany Park,2002.0,100.0,11.0
+1,Albany Park,2003.0,166.0,12.0
+2,Albany Park,2004.0,161.0,17.0
+3,Albany Park,2005.0,148.0,21.0
+4,Albany Park,2006.0,134.0,20.0
+5,Albany Park,2007.0,135.0,23.0
+6,Albany Park,2008.0,116.0,4.0
+7,Albany Park,2009.0,112.0,23.0
+8,Albany Park,2010.0,130.0,8.0
+9,Albany Park,2011.0,129.0,20.0
+10,Albany Park,2012.0,119.0,2.0
+11,Albany Park,2013.0,129.0,17.0
+12,Albany Park,2014.0,96.0,2.0
+13,Albany Park,2015.0,75.0,20.0
+14,Albany Park,2016.0,169.0,8.0
+15,Albany Park,2017.0,145.0,16.0
+16,Albany Park,2018.0,136.0,6.0
+17,Albany Park,2019.0,76.0,22.0
+18,Albany Park,2020.0,90.0,9.0
+19,Albany Park,2021.0,47.0,15.0
+20,Archer Heights,2002.0,41.0,13.727272727272727
+21,Archer Heights,2003.0,69.0,12.454545454545455
+22,Archer Heights,2004.0,57.0,11.181818181818182
+23,Archer Heights,2005.0,59.0,9.90909090909091
+24,Archer Heights,2006.0,88.0,8.636363636363637
+25,Archer Heights,2007.0,43.0,7.363636363636363
+26,Archer Heights,2008.0,57.0,6.090909090909092
+27,Archer Heights,2009.0,55.0,4.818181818181818
+28,Archer Heights,2010.0,65.0,3.545454545454545
+29,Archer Heights,2011.0,53.0,2.2727272727272734
+30,Archer Heights,2012.0,69.0,1.0
+31,Archer Heights,2013.0,53.0,1.0
+32,Archer Heights,2014.0,33.0,1.0
+33,Archer Heights,2015.0,44.0,1.5
+34,Archer Heights,2016.0,29.0,2.0
+35,Archer Heights,2017.0,33.0,1.5
+36,Archer Heights,2018.0,29.0,1.0
+37,Archer Heights,2019.0,11.0,1.5
+38,Archer Heights,2020.0,30.0,2.0
+39,Archer Heights,2021.0,27.0,1.0
+40,Armour Square,2002.0,58.0,9.0
+41,Armour Square,2003.0,78.0,7.0
+42,Armour Square,2004.0,84.0,8.0
+43,Armour Square,2005.0,121.0,13.0
+44,Armour Square,2006.0,67.0,8.0
+45,Armour Square,2007.0,58.0,12.0
+46,Armour Square,2008.0,73.0,13.0
+47,Armour Square,2009.0,75.0,2.0
+48,Armour Square,2010.0,82.0,13.0
+49,Armour Square,2011.0,86.0,1.0
+50,Armour Square,2012.0,79.0,10.0
+51,Armour Square,2013.0,54.0,1.0
+52,Armour Square,2014.0,75.0,11.0
+53,Armour Square,2015.0,106.0,3.0
+54,Armour Square,2016.0,111.0,6.0
+55,Armour Square,2017.0,98.0,5.0
+56,Armour Square,2018.0,53.0,8.0
+57,Armour Square,2019.0,73.0,6.0
+58,Armour Square,2020.0,72.0,6.0
+59,Armour Square,2021.0,82.0,5.0
+60,Ashburn,2002.0,144.0,3.0
+61,Ashburn,2003.0,167.0,1.0
+62,Ashburn,2004.0,180.0,1.0
+63,Ashburn,2005.0,191.0,1.0
+64,Ashburn,2006.0,232.0,1.0
+65,Ashburn,2007.0,216.0,1.0
+66,Ashburn,2008.0,203.0,1.0
+67,Ashburn,2009.0,168.0,1.0
+68,Ashburn,2010.0,149.0,1.0
+69,Ashburn,2011.0,131.0,1.0
+70,Ashburn,2012.0,130.0,1.0
+71,Ashburn,2013.0,139.0,1.0
+72,Ashburn,2014.0,85.0,1.0
+73,Ashburn,2015.0,87.0,1.0
+74,Ashburn,2016.0,135.0,1.0
+75,Ashburn,2017.0,117.0,1.0
+76,Ashburn,2018.0,103.0,1.0
+77,Ashburn,2019.0,74.0,1.0
+78,Ashburn,2020.0,57.0,1.0
+79,Ashburn,2021.0,40.0,1.0
+80,Auburn Gresham,2002.0,375.0,1.0
+81,Auburn Gresham,2003.0,575.0,1.0
+82,Auburn Gresham,2004.0,579.0,1.25
+83,Auburn Gresham,2005.0,602.0,1.5
+84,Auburn Gresham,2006.0,597.0,1.75
+85,Auburn Gresham,2007.0,610.0,2.0
+86,Auburn Gresham,2008.0,706.0,2.0
+87,Auburn Gresham,2009.0,666.0,2.0
+88,Auburn Gresham,2010.0,477.0,1.0
+89,Auburn Gresham,2011.0,487.0,1.5
+90,Auburn Gresham,2012.0,444.0,2.0
+91,Auburn Gresham,2013.0,493.0,2.0
+92,Auburn Gresham,2014.0,393.0,2.0
+93,Auburn Gresham,2015.0,382.0,2.0
+94,Auburn Gresham,2016.0,411.0,1.0
+95,Auburn Gresham,2017.0,377.0,2.0
+96,Auburn Gresham,2018.0,327.0,3.0
+97,Auburn Gresham,2019.0,281.0,5.0
+98,Auburn Gresham,2020.0,203.0,5.0
+99,Auburn Gresham,2021.0,158.0,3.0
+100,Austin,2002.0,879.0,3.0
+101,Austin,2003.0,1258.0,3.0
+102,Austin,2004.0,1099.0,9.0
+103,Austin,2005.0,1131.0,10.0
+104,Austin,2006.0,1116.0,12.0
+105,Austin,2007.0,1051.0,8.0
+106,Austin,2008.0,1189.0,6.0
+107,Austin,2009.0,1299.0,4.0
+108,Austin,2010.0,1239.0,6.0
+109,Austin,2011.0,1120.0,3.0
+110,Austin,2012.0,1010.0,3.0
+111,Austin,2013.0,776.0,2.0
+112,Austin,2014.0,795.0,2.0
+113,Austin,2015.0,821.0,7.0
+114,Austin,2016.0,944.0,4.0
+115,Austin,2017.0,913.0,11.0
+116,Austin,2018.0,834.0,7.0
+117,Austin,2019.0,659.0,17.0
+118,Austin,2020.0,758.0,8.0
+119,Austin,2021.0,477.0,18.0
+120,Avalon Park,2002.0,121.0,1.0
+121,Avalon Park,2003.0,135.0,1.0
+122,Avalon Park,2004.0,118.0,1.0
+123,Avalon Park,2005.0,120.0,1.0
+124,Avalon Park,2006.0,104.0,1.0
+125,Avalon Park,2007.0,125.0,1.0
+126,Avalon Park,2008.0,165.0,1.0
+127,Avalon Park,2009.0,149.0,1.0
+128,Avalon Park,2010.0,104.0,1.0
+129,Avalon Park,2011.0,139.0,1.0
+130,Avalon Park,2012.0,115.0,1.0
+131,Avalon Park,2013.0,86.0,1.0
+132,Avalon Park,2014.0,91.0,1.0
+133,Avalon Park,2015.0,67.0,1.0
+134,Avalon Park,2016.0,71.0,1.0
+135,Avalon Park,2017.0,69.0,1.0
+136,Avalon Park,2018.0,41.0,1.0
+137,Avalon Park,2019.0,31.0,1.0
+138,Avalon Park,2020.0,47.0,1.5
+139,Avalon Park,2021.0,45.0,2.0
+140,Avondale,2002.0,181.0,7.0
+141,Avondale,2003.0,267.0,7.0
+142,Avondale,2004.0,206.0,6.0
+143,Avondale,2005.0,150.0,6.0
+144,Avondale,2006.0,221.0,8.0
+145,Avondale,2007.0,151.0,10.0
+146,Avondale,2008.0,145.0,9.0
+147,Avondale,2009.0,192.0,10.0
+148,Avondale,2010.0,122.0,7.0
+149,Avondale,2011.0,108.0,2.0
+150,Avondale,2012.0,115.0,4.0
+151,Avondale,2013.0,115.0,2.0
+152,Avondale,2014.0,75.0,4.0
+153,Avondale,2015.0,91.0,4.0
+154,Avondale,2016.0,87.0,6.0
+155,Avondale,2017.0,111.0,5.0
+156,Avondale,2018.0,104.0,11.0
+157,Avondale,2019.0,81.0,7.0
+158,Avondale,2020.0,86.0,9.0
+159,Avondale,2021.0,49.0,8.0
+160,Belmont Cragin,2002.0,236.0,11.0
+161,Belmont Cragin,2003.0,341.0,15.0
+162,Belmont Cragin,2004.0,295.0,15.0
+163,Belmont Cragin,2005.0,283.0,14.0
+164,Belmont Cragin,2006.0,251.0,14.0
+165,Belmont Cragin,2007.0,238.0,20.0
+166,Belmont Cragin,2008.0,308.0,5.0
+167,Belmont Cragin,2009.0,307.0,17.0
+168,Belmont Cragin,2010.0,294.0,3.0
+169,Belmont Cragin,2011.0,293.0,19.0
+170,Belmont Cragin,2012.0,212.0,3.0
+171,Belmont Cragin,2013.0,168.0,11.0
+172,Belmont Cragin,2014.0,153.0,3.0
+173,Belmont Cragin,2015.0,159.0,15.0
+174,Belmont Cragin,2016.0,196.0,3.0
+175,Belmont Cragin,2017.0,180.0,12.0
+176,Belmont Cragin,2018.0,165.0,7.0
+177,Belmont Cragin,2019.0,135.0,20.0
+178,Belmont Cragin,2020.0,97.0,6.0
+179,Belmont Cragin,2021.0,70.0,23.0
+180,Beverly,2002.0,41.0,1.0
+181,Beverly,2003.0,56.0,1.0
+182,Beverly,2004.0,50.0,2.0
+183,Beverly,2005.0,79.0,1.0
+184,Beverly,2006.0,76.0,3.0
+185,Beverly,2007.0,50.0,4.0
+186,Beverly,2008.0,48.0,3.0
+187,Beverly,2009.0,34.0,5.0
+188,Beverly,2010.0,24.0,2.0
+189,Beverly,2011.0,43.0,6.0
+190,Beverly,2012.0,45.0,1.0
+191,Beverly,2013.0,57.0,6.0
+192,Beverly,2014.0,24.0,3.0
+193,Beverly,2015.0,20.0,5.0
+194,Beverly,2016.0,22.0,5.5
+195,Beverly,2017.0,24.0,6.0
+196,Beverly,2018.0,12.0,1.0
+197,Beverly,2019.0,15.0,5.0
+198,Beverly,2020.0,29.0,3.0
+199,Beverly,2021.0,13.0,7.0
+200,Bridgeport,2002.0,36.0,6.0
+201,Bridgeport,2003.0,47.0,9.0
+202,Bridgeport,2004.0,44.0,8.0
+203,Bridgeport,2005.0,81.0,8.0
+204,Bridgeport,2006.0,61.0,7.0
+205,Bridgeport,2007.0,44.0,12.0
+206,Bridgeport,2008.0,55.0,2.0
+207,Bridgeport,2009.0,26.0,7.0
+208,Bridgeport,2010.0,55.0,1.0
+209,Bridgeport,2011.0,67.0,9.0
+210,Bridgeport,2012.0,48.0,3.0
+211,Bridgeport,2013.0,36.0,9.0
+212,Bridgeport,2014.0,43.0,4.0
+213,Bridgeport,2015.0,44.0,8.0
+214,Bridgeport,2016.0,74.0,5.0
+215,Bridgeport,2017.0,56.0,6.0
+216,Bridgeport,2018.0,34.0,5.0
+217,Bridgeport,2019.0,18.0,6.0
+218,Bridgeport,2020.0,44.0,5.0
+219,Bridgeport,2021.0,42.0,5.0
+220,Brighton Park,2002.0,131.0,4.2
+221,Brighton Park,2003.0,212.0,3.4
+222,Brighton Park,2004.0,155.0,2.5999999999999996
+223,Brighton Park,2005.0,161.0,1.7999999999999998
+224,Brighton Park,2006.0,153.0,1.0
+225,Brighton Park,2007.0,140.0,1.0
+226,Brighton Park,2008.0,143.0,1.0
+227,Brighton Park,2009.0,128.0,1.0
+228,Brighton Park,2010.0,122.0,2.0
+229,Brighton Park,2011.0,140.0,3.0
+230,Brighton Park,2012.0,128.0,1.0
+231,Brighton Park,2013.0,89.0,3.0
+232,Brighton Park,2014.0,67.0,2.0
+233,Brighton Park,2015.0,111.0,4.0
+234,Brighton Park,2016.0,163.0,2.0
+235,Brighton Park,2017.0,153.0,5.0
+236,Brighton Park,2018.0,98.0,4.0
+237,Brighton Park,2019.0,66.0,5.0
+238,Brighton Park,2020.0,70.0,4.0
+239,Brighton Park,2021.0,48.0,4.0
+240,Burnside,2002.0,7.0,3.3333333333333335
+241,Burnside,2003.0,19.0,2.666666666666667
+242,Burnside,2004.0,27.0,2.0
+243,Burnside,2005.0,21.0,1.0
+244,Burnside,2006.0,27.0,1.0
+245,Burnside,2007.0,27.0,1.0
+246,Burnside,2008.0,26.0,1.0
+247,Burnside,2009.0,26.0,1.0
+248,Burnside,2010.0,25.0,1.0
+249,Burnside,2011.0,17.0,1.0
+250,Burnside,2012.0,15.0,1.0
+251,Burnside,2013.0,19.0,1.0
+252,Burnside,2014.0,20.0,1.0
+253,Burnside,2015.0,20.0,1.0
+254,Burnside,2016.0,13.0,1.0
+255,Burnside,2017.0,8.0,1.0
+256,Burnside,2018.0,25.0,1.0
+257,Burnside,2019.0,19.0,1.0
+258,Burnside,2020.0,11.0,1.0
+259,Burnside,2021.0,11.0,1.0
+260,Calumet Heights,2002.0,94.0,1.0
+261,Calumet Heights,2003.0,109.0,1.0
+262,Calumet Heights,2004.0,134.0,1.0
+263,Calumet Heights,2005.0,114.0,1.0
+264,Calumet Heights,2006.0,135.0,1.0
+265,Calumet Heights,2007.0,134.0,1.0
+266,Calumet Heights,2008.0,150.0,1.0
+267,Calumet Heights,2009.0,106.0,1.0
+268,Calumet Heights,2010.0,110.0,1.0
+269,Calumet Heights,2011.0,109.0,1.0
+270,Calumet Heights,2012.0,128.0,1.0
+271,Calumet Heights,2013.0,77.0,1.5
+272,Calumet Heights,2014.0,64.0,2.0
+273,Calumet Heights,2015.0,66.0,1.0
+274,Calumet Heights,2016.0,64.0,2.0
+275,Calumet Heights,2017.0,72.0,2.0
+276,Calumet Heights,2018.0,45.0,2.0
+277,Calumet Heights,2019.0,41.0,2.5
+278,Calumet Heights,2020.0,89.0,3.0
+279,Calumet Heights,2021.0,77.0,2.5
+280,Chatham,2002.0,410.0,2.0
+281,Chatham,2003.0,563.0,2.0
+282,Chatham,2004.0,470.0,6.0
+283,Chatham,2005.0,486.0,7.0
+284,Chatham,2006.0,492.0,9.0
+285,Chatham,2007.0,520.0,8.0
+286,Chatham,2008.0,615.0,3.0
+287,Chatham,2009.0,577.0,5.0
+288,Chatham,2010.0,456.0,2.0
+289,Chatham,2011.0,437.0,6.0
+290,Chatham,2012.0,488.0,2.0
+291,Chatham,2013.0,423.0,5.0
+292,Chatham,2014.0,302.0,2.0
+293,Chatham,2015.0,299.0,4.0
+294,Chatham,2016.0,339.0,2.0
+295,Chatham,2017.0,310.0,5.0
+296,Chatham,2018.0,259.0,3.0
+297,Chatham,2019.0,262.0,6.0
+298,Chatham,2020.0,261.0,5.0
+299,Chatham,2021.0,182.0,6.0
+300,Chicago Lawn,2002.0,404.0,2.0
+301,Chicago Lawn,2003.0,549.0,2.0
+302,Chicago Lawn,2004.0,464.0,2.0
+303,Chicago Lawn,2005.0,548.0,2.111111111111111
+304,Chicago Lawn,2006.0,555.0,2.2222222222222223
+305,Chicago Lawn,2007.0,587.0,2.3333333333333335
+306,Chicago Lawn,2008.0,711.0,2.4444444444444446
+307,Chicago Lawn,2009.0,649.0,2.5555555555555554
+308,Chicago Lawn,2010.0,577.0,2.6666666666666665
+309,Chicago Lawn,2011.0,469.0,2.7777777777777777
+310,Chicago Lawn,2012.0,438.0,2.888888888888889
+311,Chicago Lawn,2013.0,357.0,3.0
+312,Chicago Lawn,2014.0,274.0,2.0
+313,Chicago Lawn,2015.0,255.0,1.0
+314,Chicago Lawn,2016.0,307.0,1.0
+315,Chicago Lawn,2017.0,299.0,1.0
+316,Chicago Lawn,2018.0,299.0,2.5
+317,Chicago Lawn,2019.0,244.0,4.0
+318,Chicago Lawn,2020.0,210.0,1.0
+319,Chicago Lawn,2021.0,156.0,6.0
+320,Clearing,2002.0,16.0,1.0
+321,Clearing,2003.0,22.0,1.0
+322,Clearing,2004.0,27.0,1.0
+323,Clearing,2005.0,16.0,1.0
+324,Clearing,2006.0,31.0,1.0
+325,Clearing,2007.0,19.0,1.0
+326,Clearing,2008.0,30.0,1.0
+327,Clearing,2009.0,32.0,2.0
+328,Clearing,2010.0,16.0,1.0
+329,Clearing,2011.0,18.0,1.0
+330,Clearing,2012.0,23.0,1.0
+331,Clearing,2013.0,17.0,1.0
+332,Clearing,2014.0,16.0,1.0
+333,Clearing,2015.0,27.0,1.0
+334,Clearing,2016.0,27.0,1.5
+335,Clearing,2017.0,17.0,2.0
+336,Clearing,2018.0,17.0,2.0
+337,Clearing,2019.0,14.0,2.0
+338,Clearing,2020.0,24.0,1.0
+339,Clearing,2021.0,16.0,3.0
+340,Douglas,2002.0,178.0,2.8333333333333335
+341,Douglas,2003.0,242.0,2.6666666666666665
+342,Douglas,2004.0,244.0,2.5
+343,Douglas,2005.0,218.0,2.3333333333333335
+344,Douglas,2006.0,200.0,2.166666666666667
+345,Douglas,2007.0,168.0,2.0
+346,Douglas,2008.0,144.0,2.0
+347,Douglas,2009.0,114.0,2.0
+348,Douglas,2010.0,100.0,2.0
+349,Douglas,2011.0,133.0,2.0
+350,Douglas,2012.0,127.0,2.0
+351,Douglas,2013.0,123.0,1.0
+352,Douglas,2014.0,139.0,2.0
+353,Douglas,2015.0,92.0,1.5
+354,Douglas,2016.0,182.0,1.0
+355,Douglas,2017.0,160.0,1.0
+356,Douglas,2018.0,120.0,1.0
+357,Douglas,2019.0,88.0,2.0
+358,Douglas,2020.0,85.0,3.0
+359,Douglas,2021.0,67.0,2.0
+360,Dunning,2002.0,36.0,20.0
+361,Dunning,2003.0,46.0,18.0
+362,Dunning,2004.0,68.0,26.0
+363,Dunning,2005.0,37.0,23.0
+364,Dunning,2006.0,43.0,18.0
+365,Dunning,2007.0,49.0,21.0
+366,Dunning,2008.0,58.0,20.0
+367,Dunning,2009.0,47.0,19.0
+368,Dunning,2010.0,45.0,1.0
+369,Dunning,2011.0,33.0,19.0
+370,Dunning,2012.0,37.0,4.0
+371,Dunning,2013.0,29.0,13.0
+372,Dunning,2014.0,23.0,4.0
+373,Dunning,2015.0,30.0,11.0
+374,Dunning,2016.0,54.0,2.0
+375,Dunning,2017.0,29.0,13.0
+376,Dunning,2018.0,22.0,2.0
+377,Dunning,2019.0,17.0,13.0
+378,Dunning,2020.0,19.0,4.0
+379,Dunning,2021.0,21.0,6.0
+380,East Garfield Park,2002.0,303.0,1.0
+381,East Garfield Park,2003.0,340.0,1.0
+382,East Garfield Park,2004.0,308.0,1.0
+383,East Garfield Park,2005.0,273.0,1.0
+384,East Garfield Park,2006.0,335.0,1.0
+385,East Garfield Park,2007.0,288.0,1.0
+386,East Garfield Park,2008.0,365.0,1.0
+387,East Garfield Park,2009.0,312.0,1.0
+388,East Garfield Park,2010.0,345.0,1.0
+389,East Garfield Park,2011.0,303.0,1.0
+390,East Garfield Park,2012.0,347.0,1.0
+391,East Garfield Park,2013.0,258.0,1.0
+392,East Garfield Park,2014.0,231.0,1.0
+393,East Garfield Park,2015.0,243.0,3.0
+394,East Garfield Park,2016.0,256.0,6.0
+395,East Garfield Park,2017.0,267.0,3.0
+396,East Garfield Park,2018.0,315.0,5.0
+397,East Garfield Park,2019.0,222.0,6.0
+398,East Garfield Park,2020.0,210.0,6.0
+399,East Garfield Park,2021.0,143.0,3.0
+400,East Side,2002.0,28.0,3.0
+401,East Side,2003.0,49.0,3.0
+402,East Side,2004.0,39.0,4.0
+403,East Side,2005.0,45.0,2.0
+404,East Side,2006.0,36.0,2.0
+405,East Side,2007.0,49.0,2.0
+406,East Side,2008.0,39.0,2.0
+407,East Side,2009.0,38.0,2.0
+408,East Side,2010.0,33.0,2.0
+409,East Side,2011.0,20.0,2.0
+410,East Side,2012.0,28.0,1.8888888888888888
+411,East Side,2013.0,28.0,1.7777777777777777
+412,East Side,2014.0,20.0,1.6666666666666667
+413,East Side,2015.0,32.0,1.5555555555555556
+414,East Side,2016.0,25.0,1.4444444444444444
+415,East Side,2017.0,26.0,1.3333333333333335
+416,East Side,2018.0,31.0,1.2222222222222223
+417,East Side,2019.0,25.0,1.1111111111111112
+418,East Side,2020.0,19.0,1.0
+419,East Side,2021.0,19.0,1.0
+420,Edgewater,2002.0,139.0,31.0
+421,Edgewater,2003.0,169.0,34.0
+422,Edgewater,2004.0,197.0,31.0
+423,Edgewater,2005.0,192.0,21.0
+424,Edgewater,2006.0,169.0,33.0
+425,Edgewater,2007.0,115.0,24.0
+426,Edgewater,2008.0,167.0,4.0
+427,Edgewater,2009.0,113.0,37.0
+428,Edgewater,2010.0,165.0,2.0
+429,Edgewater,2011.0,131.0,22.0
+430,Edgewater,2012.0,103.0,8.0
+431,Edgewater,2013.0,102.0,23.0
+432,Edgewater,2014.0,64.0,9.0
+433,Edgewater,2015.0,56.0,27.0
+434,Edgewater,2016.0,93.0,9.0
+435,Edgewater,2017.0,94.0,28.0
+436,Edgewater,2018.0,77.0,9.0
+437,Edgewater,2019.0,69.0,36.0
+438,Edgewater,2020.0,62.0,13.0
+439,Edgewater,2021.0,55.0,31.0
+440,Edison Park,2002.0,1.0,1.0
+441,Edison Park,2003.0,2.0,3.0
+442,Edison Park,2004.0,3.0,1.0
+443,Edison Park,2005.0,1.0,1.0
+444,Edison Park,2006.0,4.0,1.0
+445,Edison Park,2007.0,2.0,1.0
+446,Edison Park,2008.0,4.0,1.0
+447,Edison Park,2009.0,2.0,3.0
+448,Edison Park,2010.0,3.0,3.0
+449,Edison Park,2011.0,3.5,1.0
+450,Edison Park,2012.0,4.0,4.0
+451,Edison Park,2013.0,1.0,1.0
+452,Edison Park,2014.0,1.0,3.0
+453,Edison Park,2015.0,1.0,1.0
+454,Edison Park,2016.0,4.0,3.0
+455,Edison Park,2017.0,3.0,2.0
+456,Edison Park,2018.0,1.0,4.0
+457,Edison Park,2019.0,2.0,2.0
+458,Edison Park,2020.0,1.0,2.0
+459,Edison Park,2021.0,1.0,1.0
+460,Englewood,2002.0,421.0,1.0
+461,Englewood,2003.0,555.0,1.0
+462,Englewood,2004.0,502.0,1.0
+463,Englewood,2005.0,462.0,1.0
+464,Englewood,2006.0,488.0,1.0
+465,Englewood,2007.0,613.0,1.0
+466,Englewood,2008.0,669.0,5.0
+467,Englewood,2009.0,593.0,1.0
+468,Englewood,2010.0,529.0,4.0
+469,Englewood,2011.0,526.0,3.5
+470,Englewood,2012.0,436.0,3.0
+471,Englewood,2013.0,431.0,2.0
+472,Englewood,2014.0,375.0,3.0
+473,Englewood,2015.0,311.0,3.0
+474,Englewood,2016.0,357.0,2.0
+475,Englewood,2017.0,288.0,3.0
+476,Englewood,2018.0,234.0,6.0
+477,Englewood,2019.0,239.0,4.0
+478,Englewood,2020.0,233.0,2.0
+479,Englewood,2021.0,140.0,6.0
+480,Forest Glen,2002.0,9.0,6.0
+481,Forest Glen,2003.0,9.0,6.0
+482,Forest Glen,2004.0,6.0,6.0
+483,Forest Glen,2005.0,13.0,5.0
+484,Forest Glen,2006.0,9.0,5.0
+485,Forest Glen,2007.0,8.0,5.0
+486,Forest Glen,2008.0,11.0,5.0
+487,Forest Glen,2009.0,8.0,5.0
+488,Forest Glen,2010.0,2.0,2.0
+489,Forest Glen,2011.0,6.0,4.0
+490,Forest Glen,2012.0,3.0,3.5
+491,Forest Glen,2013.0,5.0,3.0
+492,Forest Glen,2014.0,2.0,3.0
+493,Forest Glen,2015.0,3.0,3.0
+494,Forest Glen,2016.0,7.0,3.5
+495,Forest Glen,2017.0,8.0,4.0
+496,Forest Glen,2018.0,5.0,3.5
+497,Forest Glen,2019.0,2.0,3.0
+498,Forest Glen,2020.0,7.0,3.0
+499,Forest Glen,2021.0,4.0,3.0
+500,Fuller Park,2002.0,49.0,2.75
+501,Fuller Park,2003.0,68.0,2.5
+502,Fuller Park,2004.0,76.0,2.25
+503,Fuller Park,2005.0,72.0,2.0
+504,Fuller Park,2006.0,58.0,1.0
+505,Fuller Park,2007.0,46.0,1.0
+506,Fuller Park,2008.0,90.0,1.0
+507,Fuller Park,2009.0,52.0,1.0
+508,Fuller Park,2010.0,59.0,1.0
+509,Fuller Park,2011.0,104.0,1.0
+510,Fuller Park,2012.0,90.0,1.0
+511,Fuller Park,2013.0,57.0,1.0
+512,Fuller Park,2014.0,54.0,1.0
+513,Fuller Park,2015.0,54.0,1.0
+514,Fuller Park,2016.0,60.0,1.0
+515,Fuller Park,2017.0,61.0,1.0
+516,Fuller Park,2018.0,36.0,1.0
+517,Fuller Park,2019.0,53.0,1.5
+518,Fuller Park,2020.0,50.0,2.0
+519,Fuller Park,2021.0,27.0,2.0
+520,Gage Park,2002.0,156.0,1.0
+521,Gage Park,2003.0,174.0,1.0
+522,Gage Park,2004.0,135.0,1.0
+523,Gage Park,2005.0,154.0,1.0
+524,Gage Park,2006.0,136.0,1.0
+525,Gage Park,2007.0,127.0,1.0
+526,Gage Park,2008.0,149.0,1.0
+527,Gage Park,2009.0,182.0,1.0
+528,Gage Park,2010.0,198.0,1.0
+529,Gage Park,2011.0,124.0,1.0
+530,Gage Park,2012.0,150.0,1.0
+531,Gage Park,2013.0,119.0,1.0
+532,Gage Park,2014.0,87.0,1.0
+533,Gage Park,2015.0,127.0,1.0
+534,Gage Park,2016.0,126.0,1.0
+535,Gage Park,2017.0,173.0,1.0
+536,Gage Park,2018.0,84.0,2.0
+537,Gage Park,2019.0,104.0,4.0
+538,Gage Park,2020.0,77.0,2.0
+539,Gage Park,2021.0,56.0,4.0
+540,Garfield Ridge,2002.0,125.0,16.0
+541,Garfield Ridge,2003.0,186.0,17.0
+542,Garfield Ridge,2004.0,154.0,17.0
+543,Garfield Ridge,2005.0,117.0,16.0
+544,Garfield Ridge,2006.0,104.0,16.0
+545,Garfield Ridge,2007.0,85.0,16.0
+546,Garfield Ridge,2008.0,105.0,14.0
+547,Garfield Ridge,2009.0,68.0,4.0
+548,Garfield Ridge,2010.0,47.0,14.0
+549,Garfield Ridge,2011.0,38.0,2.0
+550,Garfield Ridge,2012.0,52.0,13.0
+551,Garfield Ridge,2013.0,49.0,1.0
+552,Garfield Ridge,2014.0,43.0,12.0
+553,Garfield Ridge,2015.0,36.0,3.0
+554,Garfield Ridge,2016.0,52.0,13.0
+555,Garfield Ridge,2017.0,62.0,8.0
+556,Garfield Ridge,2018.0,34.0,6.0
+557,Garfield Ridge,2019.0,30.0,11.0
+558,Garfield Ridge,2020.0,44.0,4.0
+559,Garfield Ridge,2021.0,45.0,15.0
+560,Grand Boulevard,2002.0,292.0,2.0
+561,Grand Boulevard,2003.0,391.0,4.0
+562,Grand Boulevard,2004.0,306.0,7.0
+563,Grand Boulevard,2005.0,242.0,11.0
+564,Grand Boulevard,2006.0,312.0,13.0
+565,Grand Boulevard,2007.0,258.0,11.0
+566,Grand Boulevard,2008.0,263.0,3.0
+567,Grand Boulevard,2009.0,235.0,9.0
+568,Grand Boulevard,2010.0,196.0,3.0
+569,Grand Boulevard,2011.0,205.0,4.0
+570,Grand Boulevard,2012.0,217.0,1.0
+571,Grand Boulevard,2013.0,208.0,2.0
+572,Grand Boulevard,2014.0,178.0,2.0
+573,Grand Boulevard,2015.0,160.0,1.0
+574,Grand Boulevard,2016.0,192.0,2.0
+575,Grand Boulevard,2017.0,196.0,3.0
+576,Grand Boulevard,2018.0,158.0,1.0
+577,Grand Boulevard,2019.0,102.0,4.0
+578,Grand Boulevard,2020.0,89.0,3.0
+579,Grand Boulevard,2021.0,84.0,5.0
+580,Greater Grand Crossing,2002.0,508.0,2.0
+581,Greater Grand Crossing,2003.0,595.0,3.0
+582,Greater Grand Crossing,2004.0,551.0,5.0
+583,Greater Grand Crossing,2005.0,516.0,4.0
+584,Greater Grand Crossing,2006.0,561.0,6.0
+585,Greater Grand Crossing,2007.0,588.0,7.0
+586,Greater Grand Crossing,2008.0,656.0,7.0
+587,Greater Grand Crossing,2009.0,644.0,5.5
+588,Greater Grand Crossing,2010.0,486.0,4.0
+589,Greater Grand Crossing,2011.0,521.0,1.0
+590,Greater Grand Crossing,2012.0,535.0,2.0
+591,Greater Grand Crossing,2013.0,419.0,1.0
+592,Greater Grand Crossing,2014.0,329.0,3.0
+593,Greater Grand Crossing,2015.0,316.0,3.0
+594,Greater Grand Crossing,2016.0,414.0,1.0
+595,Greater Grand Crossing,2017.0,415.0,3.0
+596,Greater Grand Crossing,2018.0,258.0,4.0
+597,Greater Grand Crossing,2019.0,256.0,7.0
+598,Greater Grand Crossing,2020.0,258.0,5.0
+599,Greater Grand Crossing,2021.0,206.0,6.0
+600,Hegewisch,2002.0,6.0,1.0
+601,Hegewisch,2003.0,16.0,1.0
+602,Hegewisch,2004.0,25.0,1.0
+603,Hegewisch,2005.0,21.0,1.0
+604,Hegewisch,2006.0,13.0,1.0
+605,Hegewisch,2007.0,19.0,1.0
+606,Hegewisch,2008.0,25.0,1.0
+607,Hegewisch,2009.0,9.0,1.0
+608,Hegewisch,2010.0,8.0,1.0
+609,Hegewisch,2011.0,11.0,1.0
+610,Hegewisch,2012.0,12.0,1.0
+611,Hegewisch,2013.0,10.0,1.0
+612,Hegewisch,2014.0,7.0,1.0
+613,Hegewisch,2015.0,11.0,1.0
+614,Hegewisch,2016.0,6.0,1.0
+615,Hegewisch,2017.0,12.0,1.0
+616,Hegewisch,2018.0,13.0,1.0
+617,Hegewisch,2019.0,11.0,1.0
+618,Hegewisch,2020.0,8.0,2.0
+619,Hegewisch,2021.0,9.0,1.8
+620,Hermosa,2002.0,100.0,1.6
+621,Hermosa,2003.0,124.0,1.4
+622,Hermosa,2004.0,83.0,1.2
+623,Hermosa,2005.0,87.0,1.0
+624,Hermosa,2006.0,90.0,2.0
+625,Hermosa,2007.0,82.0,3.0
+626,Hermosa,2008.0,88.0,3.0
+627,Hermosa,2009.0,106.0,3.0
+628,Hermosa,2010.0,87.0,3.0
+629,Hermosa,2011.0,82.0,3.0
+630,Hermosa,2012.0,59.0,3.0
+631,Hermosa,2013.0,57.0,3.0
+632,Hermosa,2014.0,50.0,2.0
+633,Hermosa,2015.0,46.0,2.0
+634,Hermosa,2016.0,60.0,1.0
+635,Hermosa,2017.0,60.0,2.0
+636,Hermosa,2018.0,48.0,1.0
+637,Hermosa,2019.0,33.0,1.0
+638,Hermosa,2020.0,35.0,3.0
+639,Hermosa,2021.0,26.0,2.0
+640,Humboldt Park,2002.0,528.0,7.0
+641,Humboldt Park,2003.0,564.0,2.0
+642,Humboldt Park,2004.0,508.0,2.0
+643,Humboldt Park,2005.0,564.0,2.0
+644,Humboldt Park,2006.0,437.0,2.0
+645,Humboldt Park,2007.0,464.0,2.0
+646,Humboldt Park,2008.0,589.0,2.5
+647,Humboldt Park,2009.0,545.0,3.0
+648,Humboldt Park,2010.0,433.0,1.0
+649,Humboldt Park,2011.0,420.0,2.0
+650,Humboldt Park,2012.0,465.0,1.0
+651,Humboldt Park,2013.0,395.0,2.0
+652,Humboldt Park,2014.0,344.0,2.5
+653,Humboldt Park,2015.0,328.0,3.0
+654,Humboldt Park,2016.0,439.0,1.0
+655,Humboldt Park,2017.0,431.0,5.0
+656,Humboldt Park,2018.0,361.0,5.0
+657,Humboldt Park,2019.0,243.0,10.0
+658,Humboldt Park,2020.0,329.0,10.0
+659,Humboldt Park,2021.0,208.0,10.0
+660,Hyde Park,2002.0,129.0,20.0
+661,Hyde Park,2003.0,187.0,24.0
+662,Hyde Park,2004.0,204.0,22.0
+663,Hyde Park,2005.0,226.0,23.0
+664,Hyde Park,2006.0,176.0,23.0
+665,Hyde Park,2007.0,177.0,25.0
+666,Hyde Park,2008.0,114.0,3.0
+667,Hyde Park,2009.0,118.0,26.0
+668,Hyde Park,2010.0,86.0,6.0
+669,Hyde Park,2011.0,105.0,29.0
+670,Hyde Park,2012.0,100.0,1.0
+671,Hyde Park,2013.0,79.0,20.0
+672,Hyde Park,2014.0,81.0,3.0
+673,Hyde Park,2015.0,92.0,23.0
+674,Hyde Park,2016.0,96.0,11.0
+675,Hyde Park,2017.0,99.0,18.0
+676,Hyde Park,2018.0,115.0,13.0
+677,Hyde Park,2019.0,72.0,22.0
+678,Hyde Park,2020.0,81.0,10.0
+679,Hyde Park,2021.0,77.0,27.0
+680,Irving Park,2002.0,115.0,14.0
+681,Irving Park,2003.0,162.0,15.0
+682,Irving Park,2004.0,160.0,20.0
+683,Irving Park,2005.0,114.0,16.0
+684,Irving Park,2006.0,146.0,17.0
+685,Irving Park,2007.0,131.0,18.0
+686,Irving Park,2008.0,132.0,8.0
+687,Irving Park,2009.0,140.0,9.0
+688,Irving Park,2010.0,129.0,10.0
+689,Irving Park,2011.0,149.0,7.0
+690,Irving Park,2012.0,99.0,4.0
+691,Irving Park,2013.0,134.0,8.0
+692,Irving Park,2014.0,84.0,7.0
+693,Irving Park,2015.0,90.0,13.0
+694,Irving Park,2016.0,113.0,5.0
+695,Irving Park,2017.0,114.0,11.0
+696,Irving Park,2018.0,95.0,5.0
+697,Irving Park,2019.0,47.0,9.0
+698,Irving Park,2020.0,82.0,8.0
+699,Irving Park,2021.0,57.0,11.0
+700,Jefferson Park,2002.0,26.0,2.0
+701,Jefferson Park,2003.0,29.0,2.0
+702,Jefferson Park,2004.0,30.0,2.0
+703,Jefferson Park,2005.0,30.0,2.0
+704,Jefferson Park,2006.0,20.0,4.0
+705,Jefferson Park,2007.0,30.0,8.0
+706,Jefferson Park,2008.0,27.0,6.0
+707,Jefferson Park,2009.0,28.0,6.0
+708,Jefferson Park,2010.0,15.0,10.0
+709,Jefferson Park,2011.0,19.0,7.0
+710,Jefferson Park,2012.0,27.0,5.0
+711,Jefferson Park,2013.0,28.0,6.0
+712,Jefferson Park,2014.0,22.0,3.0
+713,Jefferson Park,2015.0,25.0,2.0
+714,Jefferson Park,2016.0,24.0,5.0
+715,Jefferson Park,2017.0,19.0,4.0
+716,Jefferson Park,2018.0,19.0,5.0
+717,Jefferson Park,2019.0,13.0,5.0
+718,Jefferson Park,2020.0,14.0,6.0
+719,Jefferson Park,2021.0,16.0,3.0
+720,Kenwood,2002.0,80.0,6.0
+721,Kenwood,2003.0,101.0,6.0
+722,Kenwood,2004.0,85.0,5.0
+723,Kenwood,2005.0,116.0,5.0
+724,Kenwood,2006.0,74.0,5.0
+725,Kenwood,2007.0,98.0,5.0
+726,Kenwood,2008.0,76.0,7.0
+727,Kenwood,2009.0,89.0,3.0
+728,Kenwood,2010.0,78.0,6.0
+729,Kenwood,2011.0,91.0,2.0
+730,Kenwood,2012.0,87.0,7.0
+731,Kenwood,2013.0,55.0,2.0
+732,Kenwood,2014.0,88.0,4.0
+733,Kenwood,2015.0,87.0,3.0
+734,Kenwood,2016.0,83.0,4.0
+735,Kenwood,2017.0,106.0,1.0
+736,Kenwood,2018.0,62.0,4.0
+737,Kenwood,2019.0,43.0,1.0
+738,Kenwood,2020.0,36.0,2.0
+739,Kenwood,2021.0,63.0,40.0
+740,Lake View,2002.0,286.0,78.0
+741,Lake View,2003.0,298.0,80.0
+742,Lake View,2004.0,298.0,70.0
+743,Lake View,2005.0,281.0,70.0
+744,Lake View,2006.0,247.0,71.0
+745,Lake View,2007.0,236.0,71.0
+746,Lake View,2008.0,279.0,36.0
+747,Lake View,2009.0,278.0,52.0
+748,Lake View,2010.0,284.0,30.0
+749,Lake View,2011.0,319.0,60.0
+750,Lake View,2012.0,349.0,32.0
+751,Lake View,2013.0,356.0,37.0
+752,Lake View,2014.0,234.0,33.0
+753,Lake View,2015.0,196.0,37.0
+754,Lake View,2016.0,271.0,36.0
+755,Lake View,2017.0,237.0,45.0
+756,Lake View,2018.0,194.0,46.0
+757,Lake View,2019.0,161.0,53.0
+758,Lake View,2020.0,149.0,44.0
+759,Lake View,2021.0,129.0,46.0
+760,Lincoln Park,2002.0,182.0,78.0
+761,Lincoln Park,2003.0,213.0,75.0
+762,Lincoln Park,2004.0,222.0,72.0
+763,Lincoln Park,2005.0,174.0,68.0
+764,Lincoln Park,2006.0,195.0,61.0
+765,Lincoln Park,2007.0,170.0,63.0
+766,Lincoln Park,2008.0,189.0,7.0
+767,Lincoln Park,2009.0,189.0,62.0
+768,Lincoln Park,2010.0,161.0,10.0
+769,Lincoln Park,2011.0,152.0,66.0
+770,Lincoln Park,2012.0,138.0,16.0
+771,Lincoln Park,2013.0,129.0,49.0
+772,Lincoln Park,2014.0,99.0,10.0
+773,Lincoln Park,2015.0,116.0,53.0
+774,Lincoln Park,2016.0,134.0,14.0
+775,Lincoln Park,2017.0,149.0,52.0
+776,Lincoln Park,2018.0,167.0,12.0
+777,Lincoln Park,2019.0,119.0,51.0
+778,Lincoln Park,2020.0,114.0,21.0
+779,Lincoln Park,2021.0,60.0,52.0
+780,Lincoln Square,2002.0,63.0,56.0
+781,Lincoln Square,2003.0,105.0,67.0
+782,Lincoln Square,2004.0,92.0,53.0
+783,Lincoln Square,2005.0,85.0,48.0
+784,Lincoln Square,2006.0,71.0,47.0
+785,Lincoln Square,2007.0,58.0,45.0
+786,Lincoln Square,2008.0,65.0,7.0
+787,Lincoln Square,2009.0,58.0,42.0
+788,Lincoln Square,2010.0,56.0,5.0
+789,Lincoln Square,2011.0,44.0,40.0
+790,Lincoln Square,2012.0,54.0,5.0
+791,Lincoln Square,2013.0,47.0,35.0
+792,Lincoln Square,2014.0,30.0,9.0
+793,Lincoln Square,2015.0,43.0,32.0
+794,Lincoln Square,2016.0,53.0,11.0
+795,Lincoln Square,2017.0,64.0,31.0
+796,Lincoln Square,2018.0,41.0,7.0
+797,Lincoln Square,2019.0,28.0,29.0
+798,Lincoln Square,2020.0,34.0,11.0
+799,Lincoln Square,2021.0,35.0,24.0
+800,Logan Square,2002.0,375.0,32.0
+801,Logan Square,2003.0,455.0,27.0
+802,Logan Square,2004.0,384.0,37.0
+803,Logan Square,2005.0,370.0,24.0
+804,Logan Square,2006.0,338.0,22.0
+805,Logan Square,2007.0,296.0,28.0
+806,Logan Square,2008.0,296.0,7.0
+807,Logan Square,2009.0,352.0,30.0
+808,Logan Square,2010.0,321.0,10.0
+809,Logan Square,2011.0,266.0,24.0
+810,Logan Square,2012.0,233.0,12.0
+811,Logan Square,2013.0,211.0,22.0
+812,Logan Square,2014.0,164.0,15.0
+813,Logan Square,2015.0,167.0,24.0
+814,Logan Square,2016.0,219.0,22.0
+815,Logan Square,2017.0,267.0,26.0
+816,Logan Square,2018.0,152.0,27.0
+817,Logan Square,2019.0,139.0,28.0
+818,Logan Square,2020.0,131.0,36.0
+819,Logan Square,2021.0,102.0,26.0
+820,Loop,2002.0,145.0,122.0
+821,Loop,2003.0,159.0,131.0
+822,Loop,2004.0,143.0,135.0
+823,Loop,2005.0,202.0,136.0
+824,Loop,2006.0,228.0,154.0
+825,Loop,2007.0,241.0,152.0
+826,Loop,2008.0,235.0,90.0
+827,Loop,2009.0,249.0,85.0
+828,Loop,2010.0,272.0,93.0
+829,Loop,2011.0,241.0,89.0
+830,Loop,2012.0,201.0,89.0
+831,Loop,2013.0,196.0,61.0
+832,Loop,2014.0,159.0,92.0
+833,Loop,2015.0,196.0,59.0
+834,Loop,2016.0,312.0,86.0
+835,Loop,2017.0,387.0,66.0
+836,Loop,2018.0,321.0,88.0
+837,Loop,2019.0,259.0,83.0
+838,Loop,2020.0,188.0,70.0
+839,Loop,2021.0,169.0,64.0
+840,Lower West Side,2002.0,116.0,8.0
+841,Lower West Side,2003.0,158.0,12.0
+842,Lower West Side,2004.0,124.0,12.0
+843,Lower West Side,2005.0,136.0,17.0
+844,Lower West Side,2006.0,121.0,17.0
+845,Lower West Side,2007.0,108.0,37.0
+846,Lower West Side,2008.0,109.0,5.0
+847,Lower West Side,2009.0,110.0,8.0
+848,Lower West Side,2010.0,80.0,6.0
+849,Lower West Side,2011.0,80.0,13.0
+850,Lower West Side,2012.0,85.0,6.0
+851,Lower West Side,2013.0,72.0,17.0
+852,Lower West Side,2014.0,49.0,8.0
+853,Lower West Side,2015.0,67.0,16.0
+854,Lower West Side,2016.0,97.0,7.0
+855,Lower West Side,2017.0,120.0,13.0
+856,Lower West Side,2018.0,96.0,15.0
+857,Lower West Side,2019.0,69.0,11.0
+858,Lower West Side,2020.0,75.0,10.0
+859,Lower West Side,2021.0,84.0,17.0
+860,Mckinley Park,2002.0,40.0,6.0
+861,Mckinley Park,2003.0,53.0,5.0
+862,Mckinley Park,2004.0,51.0,4.0
+863,Mckinley Park,2005.0,37.0,4.0
+864,Mckinley Park,2006.0,52.0,4.0
+865,Mckinley Park,2007.0,38.0,7.0
+866,Mckinley Park,2008.0,47.0,1.0
+867,Mckinley Park,2009.0,36.0,2.0
+868,Mckinley Park,2010.0,40.0,3.0
+869,Mckinley Park,2011.0,31.0,2.5
+870,Mckinley Park,2012.0,29.0,2.0
+871,Mckinley Park,2013.0,29.0,1.5
+872,Mckinley Park,2014.0,31.0,1.0
+873,Mckinley Park,2015.0,39.0,1.0
+874,Mckinley Park,2016.0,30.0,1.0
+875,Mckinley Park,2017.0,48.0,3.0
+876,Mckinley Park,2018.0,24.0,2.0
+877,Mckinley Park,2019.0,24.0,1.0
+878,Mckinley Park,2020.0,29.0,1.5
+879,Mckinley Park,2021.0,15.0,2.0
+880,Montclare,2002.0,30.0,10.0
+881,Montclare,2003.0,23.0,12.0
+882,Montclare,2004.0,14.0,10.0
+883,Montclare,2005.0,22.0,9.0
+884,Montclare,2006.0,27.0,10.0
+885,Montclare,2007.0,25.0,11.0
+886,Montclare,2008.0,26.0,11.0
+887,Montclare,2009.0,21.0,1.0
+888,Montclare,2010.0,19.0,9.0
+889,Montclare,2011.0,11.0,8.0
+890,Montclare,2012.0,12.0,7.0
+891,Montclare,2013.0,20.0,6.5
+892,Montclare,2014.0,14.0,6.0
+893,Montclare,2015.0,16.0,7.0
+894,Montclare,2016.0,15.0,8.0
+895,Montclare,2017.0,22.0,6.0
+896,Montclare,2018.0,10.0,4.0
+897,Montclare,2019.0,13.0,3.0
+898,Montclare,2020.0,14.0,2.0
+899,Montclare,2021.0,6.0,1.0
+900,Morgan Park,2002.0,93.0,3.0
+901,Morgan Park,2003.0,121.0,3.0
+902,Morgan Park,2004.0,100.0,3.0
+903,Morgan Park,2005.0,130.0,2.0
+904,Morgan Park,2006.0,143.0,3.0
+905,Morgan Park,2007.0,89.0,3.0
+906,Morgan Park,2008.0,103.0,3.0
+907,Morgan Park,2009.0,130.0,2.0
+908,Morgan Park,2010.0,99.0,2.5
+909,Morgan Park,2011.0,102.0,3.0
+910,Morgan Park,2012.0,99.0,1.0
+911,Morgan Park,2013.0,89.0,2.0
+912,Morgan Park,2014.0,61.0,1.0
+913,Morgan Park,2015.0,65.0,1.0
+914,Morgan Park,2016.0,55.0,1.0
+915,Morgan Park,2017.0,65.0,1.0
+916,Morgan Park,2018.0,30.0,2.0
+917,Morgan Park,2019.0,43.0,3.0
+918,Morgan Park,2020.0,59.0,3.0
+919,Morgan Park,2021.0,30.0,2.0
+920,Mount Greenwood,2002.0,10.0,1.75
+921,Mount Greenwood,2003.0,17.0,1.5
+922,Mount Greenwood,2004.0,25.0,1.25
+923,Mount Greenwood,2005.0,7.0,1.0
+924,Mount Greenwood,2006.0,13.0,2.0
+925,Mount Greenwood,2007.0,8.0,1.0
+926,Mount Greenwood,2008.0,22.0,1.0
+927,Mount Greenwood,2009.0,10.0,1.0
+928,Mount Greenwood,2010.0,7.0,1.0
+929,Mount Greenwood,2011.0,9.0,1.0
+930,Mount Greenwood,2012.0,10.0,4.0
+931,Mount Greenwood,2013.0,9.0,3.5
+932,Mount Greenwood,2014.0,4.0,3.0
+933,Mount Greenwood,2015.0,6.0,1.0
+934,Mount Greenwood,2016.0,10.0,2.0
+935,Mount Greenwood,2017.0,7.0,1.0
+936,Mount Greenwood,2018.0,8.0,1.0
+937,Mount Greenwood,2019.0,3.0,1.0
+938,Mount Greenwood,2020.0,4.0,1.0
+939,Mount Greenwood,2021.0,10.0,1.0
+940,Near North Side,2002.0,332.0,150.0
+941,Near North Side,2003.0,373.0,135.0
+942,Near North Side,2004.0,359.0,134.0
+943,Near North Side,2005.0,340.0,111.0
+944,Near North Side,2006.0,321.0,111.0
+945,Near North Side,2007.0,354.0,122.0
+946,Near North Side,2008.0,350.0,45.0
+947,Near North Side,2009.0,277.0,94.0
+948,Near North Side,2010.0,349.0,53.0
+949,Near North Side,2011.0,353.0,91.0
+950,Near North Side,2012.0,273.0,56.0
+951,Near North Side,2013.0,202.0,78.0
+952,Near North Side,2014.0,181.0,62.0
+953,Near North Side,2015.0,205.0,95.0
+954,Near North Side,2016.0,299.0,55.0
+955,Near North Side,2017.0,419.0,86.0
+956,Near North Side,2018.0,389.0,65.0
+957,Near North Side,2019.0,419.0,79.0
+958,Near North Side,2020.0,260.0,61.0
+959,Near North Side,2021.0,253.0,74.0
+960,Near South Side,2002.0,84.0,20.0
+961,Near South Side,2003.0,93.0,15.0
+962,Near South Side,2004.0,80.0,12.0
+963,Near South Side,2005.0,78.0,13.0
+964,Near South Side,2006.0,103.0,19.0
+965,Near South Side,2007.0,85.0,17.0
+966,Near South Side,2008.0,65.0,12.0
+967,Near South Side,2009.0,55.0,5.0
+968,Near South Side,2010.0,43.0,14.0
+969,Near South Side,2011.0,53.0,8.0
+970,Near South Side,2012.0,66.0,12.0
+971,Near South Side,2013.0,40.0,9.0
+972,Near South Side,2014.0,40.0,11.0
+973,Near South Side,2015.0,60.0,5.0
+974,Near South Side,2016.0,54.0,9.0
+975,Near South Side,2017.0,93.0,5.0
+976,Near South Side,2018.0,52.0,7.0
+977,Near South Side,2019.0,44.0,3.0
+978,Near South Side,2020.0,53.0,8.0
+979,Near South Side,2021.0,42.0,3.0
+980,Near West Side,2002.0,415.0,58.0
+981,Near West Side,2003.0,464.0,64.0
+982,Near West Side,2004.0,435.0,56.0
+983,Near West Side,2005.0,403.0,62.0
+984,Near West Side,2006.0,409.0,61.0
+985,Near West Side,2007.0,359.0,72.0
+986,Near West Side,2008.0,404.0,37.0
+987,Near West Side,2009.0,375.0,39.0
+988,Near West Side,2010.0,334.0,40.0
+989,Near West Side,2011.0,395.0,45.0
+990,Near West Side,2012.0,366.0,54.0
+991,Near West Side,2013.0,304.0,45.0
+992,Near West Side,2014.0,284.0,56.0
+993,Near West Side,2015.0,287.0,44.0
+994,Near West Side,2016.0,367.0,55.0
+995,Near West Side,2017.0,473.0,53.0
+996,Near West Side,2018.0,354.0,53.0
+997,Near West Side,2019.0,308.0,47.0
+998,Near West Side,2020.0,285.0,38.0
+999,Near West Side,2021.0,240.0,30.0
+1000,New City,2002.0,368.0,1.0
+1001,New City,2003.0,409.0,1.0
+1002,New City,2004.0,352.0,1.0
+1003,New City,2005.0,330.0,1.0
+1004,New City,2006.0,379.0,1.0
+1005,New City,2007.0,293.0,1.0
+1006,New City,2008.0,327.0,1.0
+1007,New City,2009.0,267.0,1.0
+1008,New City,2010.0,219.0,1.0
+1009,New City,2011.0,240.0,1.0
+1010,New City,2012.0,244.0,1.0
+1011,New City,2013.0,190.0,1.0
+1012,New City,2014.0,227.0,2.0
+1013,New City,2015.0,199.0,1.0
+1014,New City,2016.0,302.0,2.0
+1015,New City,2017.0,229.0,3.0
+1016,New City,2018.0,186.0,5.0
+1017,New City,2019.0,130.0,5.0
+1018,New City,2020.0,138.0,7.0
+1019,New City,2021.0,98.0,7.0
+1020,North Center,2002.0,72.0,15.0
+1021,North Center,2003.0,73.0,20.0
+1022,North Center,2004.0,85.0,21.0
+1023,North Center,2005.0,51.0,18.0
+1024,North Center,2006.0,61.0,21.0
+1025,North Center,2007.0,46.0,20.0
+1026,North Center,2008.0,50.0,16.0
+1027,North Center,2009.0,50.0,14.0
+1028,North Center,2010.0,50.0,17.0
+1029,North Center,2011.0,32.0,10.0
+1030,North Center,2012.0,44.0,11.0
+1031,North Center,2013.0,42.0,10.0
+1032,North Center,2014.0,24.0,9.0
+1033,North Center,2015.0,43.0,14.0
+1034,North Center,2016.0,48.0,15.0
+1035,North Center,2017.0,52.0,14.0
+1036,North Center,2018.0,36.0,12.0
+1037,North Center,2019.0,25.0,18.0
+1038,North Center,2020.0,29.0,8.0
+1039,North Center,2021.0,16.0,9.0
+1040,North Lawndale,2002.0,437.0,1.0
+1041,North Lawndale,2003.0,520.0,1.0
+1042,North Lawndale,2004.0,427.0,1.0
+1043,North Lawndale,2005.0,484.0,1.0
+1044,North Lawndale,2006.0,456.0,7.0
+1045,North Lawndale,2007.0,437.0,5.0
+1046,North Lawndale,2008.0,487.0,3.0
+1047,North Lawndale,2009.0,449.0,5.0
+1048,North Lawndale,2010.0,449.0,7.0
+1049,North Lawndale,2011.0,483.0,5.5
+1050,North Lawndale,2012.0,466.0,4.0
+1051,North Lawndale,2013.0,401.0,3.0
+1052,North Lawndale,2014.0,406.0,4.0
+1053,North Lawndale,2015.0,414.0,2.0
+1054,North Lawndale,2016.0,483.0,6.0
+1055,North Lawndale,2017.0,435.0,3.0
+1056,North Lawndale,2018.0,408.0,5.0
+1057,North Lawndale,2019.0,363.0,8.0
+1058,North Lawndale,2020.0,412.0,5.0
+1059,North Lawndale,2021.0,274.0,8.0
+1060,North Park,2002.0,13.0,11.0
+1061,North Park,2003.0,29.0,16.0
+1062,North Park,2004.0,36.0,15.0
+1063,North Park,2005.0,29.0,13.0
+1064,North Park,2006.0,36.0,19.0
+1065,North Park,2007.0,27.0,15.0
+1066,North Park,2008.0,21.0,7.0
+1067,North Park,2009.0,31.0,12.0
+1068,North Park,2010.0,37.0,5.0
+1069,North Park,2011.0,33.0,15.0
+1070,North Park,2012.0,23.0,8.0
+1071,North Park,2013.0,20.0,7.0
+1072,North Park,2014.0,19.0,7.0
+1073,North Park,2015.0,23.0,11.0
+1074,North Park,2016.0,32.0,3.0
+1075,North Park,2017.0,27.0,6.0
+1076,North Park,2018.0,30.0,4.0
+1077,North Park,2019.0,16.0,8.0
+1078,North Park,2020.0,20.0,7.5
+1079,North Park,2021.0,8.0,7.0
+1080,Norwood Park,2002.0,12.0,6.0
+1081,Norwood Park,2003.0,9.0,5.0
+1082,Norwood Park,2004.0,13.0,4.0
+1083,Norwood Park,2005.0,14.0,6.0
+1084,Norwood Park,2006.0,16.0,7.0
+1085,Norwood Park,2007.0,16.0,6.0
+1086,Norwood Park,2008.0,18.0,6.0
+1087,Norwood Park,2009.0,19.0,5.0
+1088,Norwood Park,2010.0,8.0,3.0
+1089,Norwood Park,2011.0,19.0,3.0
+1090,Norwood Park,2012.0,18.0,3.0
+1091,Norwood Park,2013.0,4.0,1.0
+1092,Norwood Park,2014.0,14.0,1.0
+1093,Norwood Park,2015.0,9.0,1.0
+1094,Norwood Park,2016.0,16.0,2.0
+1095,Norwood Park,2017.0,15.0,3.0
+1096,Norwood Park,2018.0,10.0,1.0
+1097,Norwood Park,2019.0,8.0,4.0
+1098,Norwood Park,2020.0,20.0,1.0
+1099,Norwood Park,2021.0,13.0,4.0
+1100,O'Hare,2002.0,4.0,4.121951219512195
+1101,O'Hare,2003.0,7.0,4.2439024390243905
+1102,O'Hare,2004.0,7.0,4.365853658536586
+1103,O'Hare,2005.0,12.0,4.487804878048781
+1104,O'Hare,2006.0,10.0,4.609756097560975
+1105,O'Hare,2007.0,9.0,4.7317073170731705
+1106,O'Hare,2008.0,7.0,4.853658536585366
+1107,O'Hare,2009.0,6.0,4.975609756097561
+1108,O'Hare,2010.0,7.0,5.097560975609756
+1109,O'Hare,2011.0,10.0,5.219512195121951
+1110,O'Hare,2012.0,11.0,5.341463414634147
+1111,O'Hare,2013.0,8.0,5.463414634146341
+1112,O'Hare,2014.0,9.0,5.585365853658537
+1113,O'Hare,2015.0,18.0,5.7073170731707314
+1114,O'Hare,2016.0,13.0,5.829268292682927
+1115,O'Hare,2017.0,7.0,5.951219512195122
+1116,O'Hare,2018.0,4.0,6.073170731707317
+1117,O'Hare,2019.0,8.0,6.195121951219512
+1118,O'Hare,2020.0,7.0,6.317073170731707
+1119,O'Hare,2021.0,5.0,6.439024390243903
+1120,Oakland,2002.0,22.0,6.560975609756097
+1121,Oakland,2003.0,27.0,6.682926829268292
+1122,Oakland,2004.0,20.0,6.804878048780488
+1123,Oakland,2005.0,37.0,6.926829268292683
+1124,Oakland,2006.0,24.0,7.048780487804878
+1125,Oakland,2007.0,27.0,7.170731707317073
+1126,Oakland,2008.0,26.0,7.2926829268292686
+1127,Oakland,2009.0,34.0,7.414634146341463
+1128,Oakland,2010.0,25.0,7.536585365853659
+1129,Oakland,2011.0,26.0,7.658536585365853
+1130,Oakland,2012.0,29.0,7.780487804878049
+1131,Oakland,2013.0,22.0,7.902439024390244
+1132,Oakland,2014.0,24.0,8.024390243902438
+1133,Oakland,2015.0,30.0,8.146341463414634
+1134,Oakland,2016.0,27.0,8.26829268292683
+1135,Oakland,2017.0,27.0,8.390243902439025
+1136,Oakland,2018.0,21.0,8.512195121951219
+1137,Oakland,2019.0,23.0,8.634146341463413
+1138,Oakland,2020.0,21.0,8.75609756097561
+1139,Oakland,2021.0,27.0,8.878048780487806
+1140,Portage Park,2002.0,115.0,9.0
+1141,Portage Park,2003.0,168.0,10.0
+1142,Portage Park,2004.0,128.0,10.0
+1143,Portage Park,2005.0,128.0,16.0
+1144,Portage Park,2006.0,131.0,16.0
+1145,Portage Park,2007.0,143.0,20.0
+1146,Portage Park,2008.0,133.0,2.0
+1147,Portage Park,2009.0,151.0,12.0
+1148,Portage Park,2010.0,100.0,3.0
+1149,Portage Park,2011.0,105.0,16.0
+1150,Portage Park,2012.0,113.0,2.0
+1151,Portage Park,2013.0,87.0,13.0
+1152,Portage Park,2014.0,65.0,4.0
+1153,Portage Park,2015.0,90.0,13.0
+1154,Portage Park,2016.0,86.0,7.0
+1155,Portage Park,2017.0,73.0,15.0
+1156,Portage Park,2018.0,82.0,5.0
+1157,Portage Park,2019.0,59.0,18.0
+1158,Portage Park,2020.0,77.0,3.0
+1159,Portage Park,2021.0,42.0,15.0
+1160,Pullman,2002.0,47.0,14.0
+1161,Pullman,2003.0,61.0,13.0
+1162,Pullman,2004.0,49.0,12.0
+1163,Pullman,2005.0,66.0,11.0
+1164,Pullman,2006.0,74.0,10.0
+1165,Pullman,2007.0,75.0,9.0
+1166,Pullman,2008.0,50.0,8.0
+1167,Pullman,2009.0,38.0,7.0
+1168,Pullman,2010.0,34.0,6.0
+1169,Pullman,2011.0,37.0,5.0
+1170,Pullman,2012.0,39.0,4.0
+1171,Pullman,2013.0,41.0,3.0
+1172,Pullman,2014.0,36.0,2.0
+1173,Pullman,2015.0,20.0,1.0
+1174,Pullman,2016.0,42.0,1.0
+1175,Pullman,2017.0,30.0,1.0
+1176,Pullman,2018.0,27.0,1.0
+1177,Pullman,2019.0,25.0,1.0
+1178,Pullman,2020.0,21.0,1.0
+1179,Pullman,2021.0,28.0,1.5909090909090908
+1180,Riverdale,2002.0,56.0,2.1818181818181817
+1181,Riverdale,2003.0,77.0,2.772727272727273
+1182,Riverdale,2004.0,76.0,3.3636363636363638
+1183,Riverdale,2005.0,60.0,3.9545454545454546
+1184,Riverdale,2006.0,79.0,4.545454545454546
+1185,Riverdale,2007.0,94.0,5.136363636363637
+1186,Riverdale,2008.0,68.0,5.7272727272727275
+1187,Riverdale,2009.0,67.0,6.318181818181818
+1188,Riverdale,2010.0,64.0,6.909090909090909
+1189,Riverdale,2011.0,68.0,7.5
+1190,Riverdale,2012.0,43.0,8.090909090909092
+1191,Riverdale,2013.0,52.0,8.681818181818183
+1192,Riverdale,2014.0,40.0,9.272727272727273
+1193,Riverdale,2015.0,45.0,9.863636363636363
+1194,Riverdale,2016.0,47.0,10.454545454545455
+1195,Riverdale,2017.0,49.0,11.045454545454547
+1196,Riverdale,2018.0,65.0,11.636363636363637
+1197,Riverdale,2019.0,27.0,12.227272727272728
+1198,Riverdale,2020.0,45.0,12.818181818181818
+1199,Riverdale,2021.0,20.0,13.40909090909091
+1200,Rogers Park,2002.0,278.0,14.0
+1201,Rogers Park,2003.0,385.0,12.0
+1202,Rogers Park,2004.0,401.0,13.0
+1203,Rogers Park,2005.0,306.0,12.0
+1204,Rogers Park,2006.0,267.0,18.0
+1205,Rogers Park,2007.0,259.0,17.0
+1206,Rogers Park,2008.0,301.0,25.0
+1207,Rogers Park,2009.0,327.0,14.0
+1208,Rogers Park,2010.0,262.0,20.0
+1209,Rogers Park,2011.0,255.0,10.0
+1210,Rogers Park,2012.0,208.0,19.0
+1211,Rogers Park,2013.0,140.0,11.0
+1212,Rogers Park,2014.0,125.0,10.0
+1213,Rogers Park,2015.0,112.0,13.0
+1214,Rogers Park,2016.0,164.0,7.0
+1215,Rogers Park,2017.0,172.0,12.0
+1216,Rogers Park,2018.0,150.0,10.0
+1217,Rogers Park,2019.0,118.0,7.0
+1218,Rogers Park,2020.0,121.0,11.0
+1219,Rogers Park,2021.0,126.0,8.0
+1220,Roseland,2002.0,368.0,7.461538461538462
+1221,Roseland,2003.0,470.0,6.923076923076923
+1222,Roseland,2004.0,476.0,6.384615384615385
+1223,Roseland,2005.0,524.0,5.846153846153847
+1224,Roseland,2006.0,587.0,5.307692307692308
+1225,Roseland,2007.0,508.0,4.769230769230769
+1226,Roseland,2008.0,575.0,4.230769230769231
+1227,Roseland,2009.0,515.0,3.6923076923076925
+1228,Roseland,2010.0,475.0,3.153846153846154
+1229,Roseland,2011.0,440.0,2.615384615384616
+1230,Roseland,2012.0,487.0,2.0769230769230775
+1231,Roseland,2013.0,453.0,1.5384615384615383
+1232,Roseland,2014.0,346.0,1.0
+1233,Roseland,2015.0,285.0,1.0
+1234,Roseland,2016.0,384.0,1.5
+1235,Roseland,2017.0,367.0,2.0
+1236,Roseland,2018.0,277.0,4.0
+1237,Roseland,2019.0,230.0,5.0
+1238,Roseland,2020.0,221.0,4.0
+1239,Roseland,2021.0,158.0,6.0
+1240,South Chicago,2002.0,271.0,1.0
+1241,South Chicago,2003.0,343.0,1.0
+1242,South Chicago,2004.0,335.0,1.0
+1243,South Chicago,2005.0,312.0,1.0
+1244,South Chicago,2006.0,332.0,1.1666666666666667
+1245,South Chicago,2007.0,395.0,1.3333333333333333
+1246,South Chicago,2008.0,374.0,1.5
+1247,South Chicago,2009.0,344.0,1.6666666666666665
+1248,South Chicago,2010.0,288.0,1.8333333333333333
+1249,South Chicago,2011.0,291.0,2.0
+1250,South Chicago,2012.0,291.0,1.6666666666666667
+1251,South Chicago,2013.0,258.0,1.3333333333333335
+1252,South Chicago,2014.0,190.0,1.0
+1253,South Chicago,2015.0,183.0,1.0
+1254,South Chicago,2016.0,233.0,2.0
+1255,South Chicago,2017.0,188.0,2.0
+1256,South Chicago,2018.0,145.0,3.0
+1257,South Chicago,2019.0,136.0,5.0
+1258,South Chicago,2020.0,117.0,3.0
+1259,South Chicago,2021.0,90.0,7.0
+1260,South Deering,2002.0,74.0,3.0
+1261,South Deering,2003.0,80.0,3.0
+1262,South Deering,2004.0,59.0,2.75
+1263,South Deering,2005.0,93.0,2.5
+1264,South Deering,2006.0,79.0,2.25
+1265,South Deering,2007.0,96.0,2.0
+1266,South Deering,2008.0,107.0,1.8333333333333333
+1267,South Deering,2009.0,96.0,1.6666666666666667
+1268,South Deering,2010.0,98.0,1.5
+1269,South Deering,2011.0,100.0,1.3333333333333335
+1270,South Deering,2012.0,93.0,1.1666666666666667
+1271,South Deering,2013.0,85.0,1.0
+1272,South Deering,2014.0,88.0,2.0
+1273,South Deering,2015.0,61.0,1.0
+1274,South Deering,2016.0,68.0,2.0
+1275,South Deering,2017.0,57.0,3.0
+1276,South Deering,2018.0,59.0,1.0
+1277,South Deering,2019.0,48.0,2.0
+1278,South Deering,2020.0,68.0,1.0
+1279,South Deering,2021.0,38.0,2.0
+1280,South Lawndale,2002.0,357.0,1.0
+1281,South Lawndale,2003.0,384.0,2.0
+1282,South Lawndale,2004.0,289.0,1.0
+1283,South Lawndale,2005.0,285.0,3.0
+1284,South Lawndale,2006.0,271.0,2.0
+1285,South Lawndale,2007.0,253.0,1.0
+1286,South Lawndale,2008.0,278.0,2.0
+1287,South Lawndale,2009.0,260.0,1.0
+1288,South Lawndale,2010.0,280.0,4.0
+1289,South Lawndale,2011.0,260.0,1.0
+1290,South Lawndale,2012.0,275.0,1.0
+1291,South Lawndale,2013.0,253.0,1.0
+1292,South Lawndale,2014.0,198.0,1.0
+1293,South Lawndale,2015.0,218.0,3.0
+1294,South Lawndale,2016.0,260.0,6.0
+1295,South Lawndale,2017.0,217.0,4.0
+1296,South Lawndale,2018.0,203.0,7.0
+1297,South Lawndale,2019.0,158.0,7.0
+1298,South Lawndale,2020.0,145.0,3.0
+1299,South Lawndale,2021.0,126.0,8.0
+1300,South Shore,2002.0,505.0,1.0
+1301,South Shore,2003.0,645.0,2.0
+1302,South Shore,2004.0,646.0,4.0
+1303,South Shore,2005.0,642.0,2.0
+1304,South Shore,2006.0,659.0,3.0
+1305,South Shore,2007.0,804.0,3.0
+1306,South Shore,2008.0,753.0,3.5
+1307,South Shore,2009.0,635.0,4.0
+1308,South Shore,2010.0,517.0,4.0
+1309,South Shore,2011.0,600.0,4.0
+1310,South Shore,2012.0,624.0,4.0
+1311,South Shore,2013.0,480.0,4.0
+1312,South Shore,2014.0,395.0,1.0
+1313,South Shore,2015.0,360.0,2.0
+1314,South Shore,2016.0,484.0,2.0
+1315,South Shore,2017.0,499.0,3.0
+1316,South Shore,2018.0,322.0,6.0
+1317,South Shore,2019.0,315.0,5.0
+1318,South Shore,2020.0,304.0,7.0
+1319,South Shore,2021.0,247.0,8.0
+1320,Uptown,2002.0,202.0,24.0
+1321,Uptown,2003.0,230.0,20.0
+1322,Uptown,2004.0,215.0,22.0
+1323,Uptown,2005.0,227.0,19.0
+1324,Uptown,2006.0,194.0,16.0
+1325,Uptown,2007.0,200.0,22.0
+1326,Uptown,2008.0,186.0,8.0
+1327,Uptown,2009.0,177.0,22.0
+1328,Uptown,2010.0,169.0,4.0
+1329,Uptown,2011.0,150.0,16.0
+1330,Uptown,2012.0,145.0,4.0
+1331,Uptown,2013.0,124.0,13.0
+1332,Uptown,2014.0,110.0,8.0
+1333,Uptown,2015.0,128.0,12.0
+1334,Uptown,2016.0,152.0,7.0
+1335,Uptown,2017.0,108.0,17.0
+1336,Uptown,2018.0,109.0,14.0
+1337,Uptown,2019.0,75.0,18.0
+1338,Uptown,2020.0,106.0,11.0
+1339,Uptown,2021.0,74.0,15.0
+1340,Washington Heights,2002.0,174.0,10.666666666666668
+1341,Washington Heights,2003.0,206.0,6.333333333333334
+1342,Washington Heights,2004.0,205.0,2.0
+1343,Washington Heights,2005.0,220.0,2.0
+1344,Washington Heights,2006.0,220.0,1.0
+1345,Washington Heights,2007.0,219.0,1.0
+1346,Washington Heights,2008.0,238.0,1.0
+1347,Washington Heights,2009.0,244.0,1.0
+1348,Washington Heights,2010.0,168.0,1.0
+1349,Washington Heights,2011.0,175.0,1.0
+1350,Washington Heights,2012.0,228.0,1.0
+1351,Washington Heights,2013.0,236.0,1.0
+1352,Washington Heights,2014.0,134.0,1.0
+1353,Washington Heights,2015.0,115.0,1.0
+1354,Washington Heights,2016.0,166.0,1.0
+1355,Washington Heights,2017.0,155.0,1.0
+1356,Washington Heights,2018.0,98.0,1.0
+1357,Washington Heights,2019.0,91.0,1.0
+1358,Washington Heights,2020.0,100.0,3.0
+1359,Washington Heights,2021.0,61.0,2.0
+1360,Washington Park,2002.0,236.0,1.9166666666666667
+1361,Washington Park,2003.0,246.0,1.8333333333333333
+1362,Washington Park,2004.0,244.0,1.75
+1363,Washington Park,2005.0,281.0,1.6666666666666667
+1364,Washington Park,2006.0,234.0,1.5833333333333335
+1365,Washington Park,2007.0,237.0,1.5
+1366,Washington Park,2008.0,206.0,1.4166666666666667
+1367,Washington Park,2009.0,223.0,1.3333333333333335
+1368,Washington Park,2010.0,170.0,1.25
+1369,Washington Park,2011.0,186.0,1.1666666666666667
+1370,Washington Park,2012.0,167.0,1.0833333333333335
+1371,Washington Park,2013.0,211.0,1.0
+1372,Washington Park,2014.0,167.0,2.333333333333333
+1373,Washington Park,2015.0,128.0,3.6666666666666665
+1374,Washington Park,2016.0,184.0,5.0
+1375,Washington Park,2017.0,177.0,4.5
+1376,Washington Park,2018.0,112.0,4.0
+1377,Washington Park,2019.0,77.0,3.5
+1378,Washington Park,2020.0,68.0,3.0
+1379,Washington Park,2021.0,49.0,2.0
+1380,West Elsdon,2002.0,46.0,1.0
+1381,West Elsdon,2003.0,56.0,3.0
+1382,West Elsdon,2004.0,55.0,3.0
+1383,West Elsdon,2005.0,45.0,2.0
+1384,West Elsdon,2006.0,39.0,3.0
+1385,West Elsdon,2007.0,30.0,2.0
+1386,West Elsdon,2008.0,66.0,2.0
+1387,West Elsdon,2009.0,55.0,2.0
+1388,West Elsdon,2010.0,67.0,2.0
+1389,West Elsdon,2011.0,67.0,2.0
+1390,West Elsdon,2012.0,63.0,3.0
+1391,West Elsdon,2013.0,43.0,1.0
+1392,West Elsdon,2014.0,40.0,2.0
+1393,West Elsdon,2015.0,52.0,1.5
+1394,West Elsdon,2016.0,66.0,1.0
+1395,West Elsdon,2017.0,64.0,1.0
+1396,West Elsdon,2018.0,29.0,1.0
+1397,West Elsdon,2019.0,28.0,2.0
+1398,West Elsdon,2020.0,35.0,1.0
+1399,West Elsdon,2021.0,32.0,4.0
+1400,West Englewood,2002.0,405.0,3.8333333333333335
+1401,West Englewood,2003.0,610.0,3.6666666666666665
+1402,West Englewood,2004.0,450.0,3.5
+1403,West Englewood,2005.0,496.0,3.3333333333333335
+1404,West Englewood,2006.0,502.0,3.166666666666667
+1405,West Englewood,2007.0,521.0,3.0
+1406,West Englewood,2008.0,563.0,2.8333333333333335
+1407,West Englewood,2009.0,571.0,2.666666666666667
+1408,West Englewood,2010.0,499.0,2.5
+1409,West Englewood,2011.0,455.0,2.3333333333333335
+1410,West Englewood,2012.0,470.0,2.166666666666667
+1411,West Englewood,2013.0,486.0,2.0
+1412,West Englewood,2014.0,331.0,2.5
+1413,West Englewood,2015.0,281.0,3.0
+1414,West Englewood,2016.0,391.0,1.0
+1415,West Englewood,2017.0,312.0,1.0
+1416,West Englewood,2018.0,291.0,1.0
+1417,West Englewood,2019.0,232.0,3.0
+1418,West Englewood,2020.0,269.0,3.0
+1419,West Englewood,2021.0,131.0,5.0
+1420,West Garfield Park,2002.0,306.0,4.0
+1421,West Garfield Park,2003.0,348.0,3.0
+1422,West Garfield Park,2004.0,317.0,2.0
+1423,West Garfield Park,2005.0,337.0,1.0
+1424,West Garfield Park,2006.0,341.0,2.0
+1425,West Garfield Park,2007.0,325.0,2.0
+1426,West Garfield Park,2008.0,362.0,2.0
+1427,West Garfield Park,2009.0,337.0,1.5
+1428,West Garfield Park,2010.0,321.0,1.0
+1429,West Garfield Park,2011.0,337.0,1.0
+1430,West Garfield Park,2012.0,329.0,1.0
+1431,West Garfield Park,2013.0,242.0,1.0
+1432,West Garfield Park,2014.0,263.0,1.5
+1433,West Garfield Park,2015.0,311.0,2.0
+1434,West Garfield Park,2016.0,380.0,1.0
+1435,West Garfield Park,2017.0,325.0,1.0
+1436,West Garfield Park,2018.0,341.0,4.0
+1437,West Garfield Park,2019.0,280.0,2.0
+1438,West Garfield Park,2020.0,352.0,7.0
+1439,West Garfield Park,2021.0,190.0,4.0
+1440,West Lawn,2002.0,56.0,1.0
+1441,West Lawn,2003.0,86.0,3.0
+1442,West Lawn,2004.0,83.0,1.0
+1443,West Lawn,2005.0,110.0,2.0
+1444,West Lawn,2006.0,140.0,1.0
+1445,West Lawn,2007.0,84.0,1.0
+1446,West Lawn,2008.0,106.0,1.0
+1447,West Lawn,2009.0,122.0,1.0
+1448,West Lawn,2010.0,87.0,1.5
+1449,West Lawn,2011.0,110.0,2.0
+1450,West Lawn,2012.0,95.0,1.5
+1451,West Lawn,2013.0,103.0,1.0
+1452,West Lawn,2014.0,57.0,1.0
+1453,West Lawn,2015.0,65.0,2.0
+1454,West Lawn,2016.0,106.0,1.0
+1455,West Lawn,2017.0,88.0,2.0
+1456,West Lawn,2018.0,50.0,3.0
+1457,West Lawn,2019.0,51.0,4.0
+1458,West Lawn,2020.0,43.0,2.0
+1459,West Lawn,2021.0,32.0,2.0
+1460,West Pullman,2002.0,216.0,2.0
+1461,West Pullman,2003.0,235.0,1.0
+1462,West Pullman,2004.0,265.0,2.0
+1463,West Pullman,2005.0,318.0,3.0
+1464,West Pullman,2006.0,333.0,4.0
+1465,West Pullman,2007.0,270.0,3.0
+1466,West Pullman,2008.0,268.0,2.7142857142857144
+1467,West Pullman,2009.0,249.0,2.428571428571429
+1468,West Pullman,2010.0,311.0,2.142857142857143
+1469,West Pullman,2011.0,270.0,1.8571428571428572
+1470,West Pullman,2012.0,216.0,1.5714285714285716
+1471,West Pullman,2013.0,183.0,1.2857142857142858
+1472,West Pullman,2014.0,178.0,1.0
+1473,West Pullman,2015.0,160.0,1.0
+1474,West Pullman,2016.0,157.0,1.0
+1475,West Pullman,2017.0,157.0,2.0
+1476,West Pullman,2018.0,141.0,3.0
+1477,West Pullman,2019.0,96.0,4.0
+1478,West Pullman,2020.0,129.0,3.0
+1479,West Pullman,2021.0,91.0,1.0
+1480,West Ridge,2002.0,144.0,28.0
+1481,West Ridge,2003.0,162.0,29.0
+1482,West Ridge,2004.0,194.0,20.0
+1483,West Ridge,2005.0,194.0,26.0
+1484,West Ridge,2006.0,195.0,21.0
+1485,West Ridge,2007.0,114.0,21.0
+1486,West Ridge,2008.0,166.0,4.0
+1487,West Ridge,2009.0,168.0,13.0
+1488,West Ridge,2010.0,187.0,8.0
+1489,West Ridge,2011.0,140.0,12.0
+1490,West Ridge,2012.0,148.0,5.0
+1491,West Ridge,2013.0,152.0,11.0
+1492,West Ridge,2014.0,116.0,5.0
+1493,West Ridge,2015.0,95.0,12.0
+1494,West Ridge,2016.0,134.0,5.0
+1495,West Ridge,2017.0,117.0,10.0
+1496,West Ridge,2018.0,139.0,4.0
+1497,West Ridge,2019.0,93.0,11.0
+1498,West Ridge,2020.0,105.0,3.0
+1499,West Ridge,2021.0,81.0,14.0
+1500,West Town,2002.0,462.0,72.0
+1501,West Town,2003.0,562.0,84.0
+1502,West Town,2004.0,494.0,79.0
+1503,West Town,2005.0,473.0,76.0
+1504,West Town,2006.0,406.0,66.0
+1505,West Town,2007.0,414.0,62.0
+1506,West Town,2008.0,426.0,41.0
+1507,West Town,2009.0,447.0,26.0
+1508,West Town,2010.0,412.0,39.0
+1509,West Town,2011.0,375.0,34.0
+1510,West Town,2012.0,391.0,51.0
+1511,West Town,2013.0,321.0,38.0
+1512,West Town,2014.0,265.0,53.0
+1513,West Town,2015.0,239.0,35.0
+1514,West Town,2016.0,397.0,48.0
+1515,West Town,2017.0,432.0,36.0
+1516,West Town,2018.0,297.0,59.0
+1517,West Town,2019.0,246.0,38.0
+1518,West Town,2020.0,255.0,54.0
+1519,West Town,2021.0,250.0,31.0
+1520,Woodlawn,2002.0,255.0,4.0
+1521,Woodlawn,2003.0,316.0,5.0
+1522,Woodlawn,2004.0,330.0,8.0
+1523,Woodlawn,2005.0,348.0,9.0
+1524,Woodlawn,2006.0,360.0,8.0
+1525,Woodlawn,2007.0,387.0,13.0
+1526,Woodlawn,2008.0,352.0,2.0
+1527,Woodlawn,2009.0,367.0,5.0
+1528,Woodlawn,2010.0,250.0,1.0
+1529,Woodlawn,2011.0,230.0,6.0
+1530,Woodlawn,2012.0,240.0,5.5
+1531,Woodlawn,2013.0,233.0,5.0
+1532,Woodlawn,2014.0,180.0,1.0
+1533,Woodlawn,2015.0,179.0,5.0
+1534,Woodlawn,2016.0,205.0,5.0
+1535,Woodlawn,2017.0,220.0,4.0
+1536,Woodlawn,2018.0,140.0,6.0
+1537,Woodlawn,2019.0,141.0,12.0
+1538,Woodlawn,2020.0,105.0,8.0
+1539,Woodlawn,2021.0,85.0,12.0
+1540,,2021.0,85.0,2.0
+1541,,2021.0,85.0,1.0
+1542,,2021.0,85.0,1.0
+1543,,2021.0,85.0,1.0
+1544,,2021.0,85.0,1.0
+1545,,2021.0,85.0,1.0
+1546,,2021.0,85.0,2.0
+1547,,2021.0,85.0,1.0
+1548,,2021.0,85.0,1.0
+1549,,2021.0,85.0,2.0
+1550,,2021.0,85.0,2.0
+1551,,2021.0,85.0,3.0
+1552,,2021.0,85.0,7.0
+1553,,2021.0,85.0,2.0
+1554,,2021.0,85.0,16.0
+1555,,2021.0,85.0,1.0
+1556,,2021.0,85.0,1.0
+1557,,2021.0,85.0,7.0
+1558,,2021.0,85.0,1.0
+1559,,2021.0,85.0,4.0
+1560,,2021.0,85.0,1.0
+1561,,2021.0,85.0,2.0
+1562,,2021.0,85.0,1.0
+1563,,2021.0,85.0,7.0
+1564,,2021.0,85.0,11.0
+1565,,2021.0,85.0,5.0
+1566,,2021.0,85.0,4.0
+1567,,2021.0,85.0,4.0
+1568,,2021.0,85.0,4.0
+1569,,2021.0,85.0,5.0
+1570,,2021.0,85.0,3.0
+1571,,2021.0,85.0,5.0
+1572,,2021.0,85.0,4.0
+1573,,2021.0,85.0,2.0
+1574,,2021.0,85.0,4.0
+1575,,2021.0,85.0,2.0
+1576,,2021.0,85.0,3.0
+1577,,2021.0,85.0,2.0
+1578,,2021.0,85.0,4.0
+1579,,2021.0,85.0,3.0
+1580,,2021.0,85.0,3.0
+1581,,2021.0,85.0,4.0
+1582,,2021.0,85.0,2.0
+1583,,2021.0,85.0,2.0
+1584,,2021.0,85.0,2.0
+1585,,2021.0,85.0,1.0
+1586,,2021.0,85.0,1.0
+1587,,2021.0,85.0,3.0
+1588,,2021.0,85.0,3.0
+1589,,2021.0,85.0,10.0
