@@ -2,10 +2,9 @@
 library(dplyr)
 library(forcats)
 library(ggplot2)
-library(wesanderson)
 
 dta <- read.csv("/Users/sarwaridas/Desktop/IDS 702/Final Project/ids720_CoffeeAndCrimes/02_processed_data/coffee_crime_controls.csv", header = TRUE,sep = ",",stringsAsFactors = FALSE)
-dta <- subset(dta, select = -c(X,Year,Community.Area)) #removing index and yr column
+#dta <- subset(dta, select = -c(X,Year,Community.Area)) #removing index and yr column
 str(dta)
 
 f_cols= c('timeperiod','GEOG') #changing to factor dtype
@@ -46,24 +45,24 @@ summary(dta$crime)#crime has outliers - not removing them though
 # 
 # #Are there any variations in crime by CCA?
 # 
-# #Let's see for a random sample
-# set.seed(100)
-# sample_state <- sample(unique(dta$GEOG),8,replace=F)
-# ggplot(dta[is.element(dta$GEOG,sample_state),],
-#        aes(x=GEOG, y=logcrime, fill=GEOG)) +geom_boxplot() + scale_fill_brewer(palette="Greens")+
-#   labs(title="Crime levels by neighborhoods in Chicago",
-#        x="Nieghborhoods",y="Log crime") + 
-#   theme(legend.position="none",axis.text.x = element_text(angle = 0)) #Differences are seen across cca
-# 
+#Let's see for a random sample
+set.seed(100)
+sample_state <- sample(unique(dta$GEOG),8,replace=F)
+ggplot(dta[is.element(dta$GEOG,sample_state),],
+       aes(x=GEOG, y=logcrime, fill=GEOG)) +geom_boxplot() + scale_fill_brewer(palette="Greens")+
+  labs(title="Crime levels by neighborhoods in Chicago",
+       x="Nieghborhoods",y="Log crime") +
+  theme(legend.position="none",axis.text.x = element_text(angle = 0)) #Differences are seen across cca
+
 # #Are there any variations in crime by time?
-# str(dta)
-# set.seed(1000)
-# #sample_state <- sample(unique(dta$timeperiod),20,replace=F)
-# ggplot(dta,aes(x=timeperiod, y=logcrime, fill=timeperiod)) +geom_boxplot() + scale_fill_brewer(palette="Greens")
-#   labs(title="Log crime levels by CCA",
-#        x="CCA",y="Log crime") + theme_classic() +
-#   theme(legend.position="none",axis.text.x = element_text(angle = 0)) #Differences are seen across time
-# 
+str(dta)
+set.seed(1000)
+#sample_state <- sample(unique(dta$timeperiod),20,replace=F)
+ggplot(dta,aes(x=timeperiod, y=logcrime, fill=timeperiod)) +geom_boxplot() + scale_fill_brewer(palette="Greens")
+  labs(title="Log crime levels by CCA",
+       x="CCA",y="Log crime") + theme_classic() +
+  theme(legend.position="none",axis.text.x = element_text(angle = 0)) #Differences are seen across time
+
 # ###########PREDICTOR V RESPONSES
 # 
 # dta$logcoffee=log(dta$coffeeshops+1)
@@ -317,6 +316,12 @@ Model2 <- lmer(logcrime ~ coffeeshops +  WhitePerc + TOT_POP + BlackPerc +
 anova(Model2a,Model2)
 
 
+ggplot(dta,aes(logcrime)) +
+  geom_histogram(aes(y=..density..),color="black",linetype="dashed",bins=15,fill=viridis(15)) + theme(legend.position="none") +
+  geom_density(alpha=.25, fill="lightblue") +
+  labs(title="Distribution of log (Crime)",x="Crimes per neighborhood") +theme(plot.title = element_text(hjust = 0.5))+ theme_bw()
+
+
 
 
 dotplot(ranef(Model2a,condVar=TRUE))$GEOG
@@ -465,6 +470,24 @@ ggplot(sample_data2,aes(x=logcoffee, y=logcrime)) +
   labs(title="Crime levels vs Coffee shops by Proportion of Non-whites in quartiles") +
   #scale_x_discrete(labels=c("0" = "No","1" = "Yes")) +
   facet_wrap( ~ quartile_black) #looks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
